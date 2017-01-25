@@ -1,0 +1,19 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="ac597fed-aecf-4da3-b966-3bed6ee8da1b" name="darez.kr" url="http://darez.kr">
+        <fileTransfer host="darez.kr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
