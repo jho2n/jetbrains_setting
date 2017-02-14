@@ -7,7 +7,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../modules/kf_site/controllers/kf_site_product_extends.php - [kaffa]'" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
