@@ -3,11 +3,11 @@
     <property name="created">2017-02-27T14:47:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-28T17:27:43</property>
+    <property name="modified">2017-02-28T18:34:20</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Mono" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
