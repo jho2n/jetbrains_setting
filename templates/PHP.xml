@@ -2,8 +2,8 @@
   <template name="ep" value="error_log(print_r($VAR_VALUE$, true));" description="'error_log($value)' statement" toReformat="true" toShortenFQNames="true">
     <variable name="VAR_VALUE" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Statement" value="true" />
       <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
 </templateSet>
