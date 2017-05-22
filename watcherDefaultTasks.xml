@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-E UTF-8 -t compact --no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="-E UTF-8 --sourcemap=none -t compact --no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="false" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
