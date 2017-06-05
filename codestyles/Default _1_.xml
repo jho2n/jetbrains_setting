@@ -9,8 +9,16 @@
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
+    <option name="IMPORTS_WRAP" value="1" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="OBJECT_WRAPPING" value="1" />
+    <option name="ARRAY_WRAPPING" value="1" />
+  </JSON>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -51,7 +59,12 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JSON">
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
@@ -60,8 +73,6 @@
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
