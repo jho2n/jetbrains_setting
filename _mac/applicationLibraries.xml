@@ -106,5 +106,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_vue_2.3.4_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_vue_2.3.4_vue.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
