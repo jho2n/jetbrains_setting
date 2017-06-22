@@ -7,5 +7,6 @@
         <option value="t" />
       </set>
     </option>
+    <option name="previewEnabled" value="true" />
   </component>
 </application>
