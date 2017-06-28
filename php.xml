@@ -4,7 +4,7 @@
       <phpmd_by_interpreter interpreter_id="a566d08c-e1ff-487a-bcb0-ba0ab91627e3" tool_path="/home/peter/phpmd.phar" />
     </phpmd_settings>
   </component>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" prepend_global_functions_and_constants="true" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:/php-7.0.9-nts-Win32-VC14-x64/php.exe" id="b5e16fba-db43-45bd-bf78-8bd128912026" name="PHP" debugger_id="php.debugger.XDebug" />
