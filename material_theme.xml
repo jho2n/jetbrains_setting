@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="6f9bcb" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="2" />
