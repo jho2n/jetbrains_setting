@@ -4,8 +4,6 @@
       <set>
         <option value="bem" />
         <option value="c" />
-        <option value="s" />
-        <option value="t" />
         <option value="xsl" />
       </set>
     </option>
