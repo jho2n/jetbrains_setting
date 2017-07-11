@@ -14,6 +14,7 @@
   <option name="RIGHT_MARGIN" value="200" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
