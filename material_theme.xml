@@ -10,5 +10,6 @@
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="25" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
