@@ -28,7 +28,6 @@
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <JSON>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="OBJECT_WRAPPING" value="1" />
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
