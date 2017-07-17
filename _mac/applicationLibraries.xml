@@ -1,5 +1,47 @@
 <application>
   <component name="libraryTable">
+    <library name="debase (v0.2.1, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta7, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta7/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta8, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-0.2.2.beta8/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.0, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-ruby_core_source-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/debase-ruby_core_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-DefinitelyTyped" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -15,6 +57,90 @@
       </DOCUMENTATION>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v2.1.2.0, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/dl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/io" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/cgi" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/drb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/irb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rss" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/uri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/date" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/racc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rake" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rdoc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/yaml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/psych" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rexml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rinda" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/shell" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/digest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/fiddle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/matrix" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/ripper" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/syslog" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/openssl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/webrick" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/minitest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/optparse" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rubygems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/x86_64-darwin15.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/dl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/io" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/cgi" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/drb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/irb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/net" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rss" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/uri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/date" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/racc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rake" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rdoc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/yaml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/psych" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rexml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rinda" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/shell" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/digest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/fiddle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/matrix" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/ripper" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/syslog" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/openssl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/webrick" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/minitest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/optparse" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/rubygems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/2.1.0/x86_64-darwin15.0" />
+      </SOURCES>
     </library>
     <library name="underscore-DefinitelyTyped" type="javaScript">
       <properties>
