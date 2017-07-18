@@ -93,7 +93,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6.1 (/usr/local/bin/python3) interpreter library">
+    <library name="Python 3.6.2 (/usr/local/bin/python3) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
