@@ -7,12 +7,13 @@
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="2" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="64ffda" />
     <option name="wallpaperSet" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="customSidebarHeight" value="20" />
   </component>
 </application>
