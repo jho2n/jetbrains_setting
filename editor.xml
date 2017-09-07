@@ -26,7 +26,6 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="CARET_BLINKING_PERIOD" value="200" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="SqlEditorOptions">
