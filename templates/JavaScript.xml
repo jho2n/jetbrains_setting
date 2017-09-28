@@ -15,7 +15,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="defaultIndex" value="import {Router} from &quot;express&quot;;&#10;&#10;import service from &quot;./service&quot;;&#10;import controller from &quot;./controller&quot;;&#10;import repository from &quot;./repository&quot;;&#10;&#10;const router = Router();&#10;$END$&#10;&#10;export default {&#10;  services    : Object.assign({}, service, {}),&#10;  controllers : Object.assign({}, controller, {}),&#10;  repositories: Object.assign({}, repository, {}),&#10;  router&#10;};&#10;" description="default index for s-api" toReformat="true" toShortenFQNames="true">
+  <template name="defaultIndex" value="import {Router} from &quot;express&quot;;&#10;&#10;import service from &quot;./service&quot;;&#10;import controller from &quot;./controller&quot;;&#10;import repository from &quot;./repository&quot;;&#10;&#10;const router = Router();&#10;$END$&#10;&#10;export {service};&#10;export {controller};&#10;export {repository};&#10;export {router};&#10;&#10;export default {&#10;  service    : Object.assign({}, service, {}),&#10;  controller : Object.assign({}, controller, {}),&#10;  repository : Object.assign({}, repository, {}),&#10;  router&#10;};&#10;" description="default index for s-api" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
