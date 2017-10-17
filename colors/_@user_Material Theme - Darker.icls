@@ -3,7 +3,7 @@
     <property name="created">2017-04-19T18:34:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-10-17T23:54:20</property>
+    <property name="modified">2017-07-25T16:31:19</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <colors>
@@ -473,7 +473,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="927243" />
+        <option name="BACKGROUND" value="2b4b92" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
