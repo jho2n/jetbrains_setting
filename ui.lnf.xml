@@ -5,7 +5,7 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="16384" />
     <option name="CYCLE_SCROLLING" value="false" />
     <option name="DISABLE_MNEMONICS" value="false" />
-    <option name="FONT_FACE" value="Apple SD Gothic Neo" />
+    <option name="FONT_FACE" value="Helvetica Neue" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="14" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
