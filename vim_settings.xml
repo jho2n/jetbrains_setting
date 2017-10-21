@@ -6,12 +6,18 @@
       <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/seq/cmd/fib.go" timestamp="1508515903364">
         <mark key="'" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" timestamp="1508517147769">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="8" />
-        <mark key="^" line="27" column="14" />
-        <mark key="." line="29" column="8" />
+      <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" timestamp="1508517493382">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/slcie/slice_test.go" timestamp="1508603331508">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="96" column="19" />
+        <mark key="^" line="96" column="19" />
+        <mark key="." line="96" column="19" />
       </file>
       <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/hangul/hangul.go" timestamp="1508516491620">
         <mark key="]" line="5" column="4" />
@@ -21,52 +27,81 @@
     </filemarks>
     <jumps>
       <jump line="5" column="30" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/seq/cmd/fib.go" />
-      <jump line="29" column="13" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="35" column="13" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="37" column="13" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="29" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="38" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="39" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="2" column="8" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="6" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="7" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="17" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
+      <jump line="18" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Println(</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmbXRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXMgOj0gImFiYyIK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>Println</text>
+        <text encoding="base64">CS8vIE91dHB1dDoKCS8vIFsxIDIgMyA0IDVdCgkvLyBsZW46IDUKCS8vIGNhcDogNQoJLy8KCS8vIFsxIDIgM10KCS8vIGxlbjogMwoJLy8gY2FwOiA1CgkvLwoJLy9bMSAyIDNdCgkvLyBsZW46IDMKCS8vIGNhcDogNQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>// 
-	//</text>
+      <register name="3" type="2">
+        <text encoding="base64">CXAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpmdW5j</text>
+      <register name="4" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJsZW46IiwgbGVuKHNsaWNlZDEpKQoJZm10LlByaW50bG4oImNhcDoiLCBjYXAoc2xpY2VkMSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKHNsaWNlZDEpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CS8vIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>Println</text>
-      </register>
-      <register name="/" type="4">
-        <text>import</text>
-      </register>
     </registers>
     <search>
-      <last-search>import</last-search>
-      <last-pattern>import</last-pattern>
+      <last-search encoding="base64">XDxmbXRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmbXRcPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>import</entry>
+        <entry>fmt</entry>
+        <entry encoding="base64">XDxmbXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/import/test/g</entry>
+        <entry>set hls</entry>
+        <entry>noh</entry>
+        <entry>noh!</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
