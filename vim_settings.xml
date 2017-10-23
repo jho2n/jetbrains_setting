@@ -22,11 +22,11 @@
         <mark key="." line="80" column="14" />
         <mark key="^" line="80" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508735316494">
-        <mark key="[" line="88" column="8" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508735334727">
+        <mark key="[" line="89" column="67" />
         <mark key="m" line="79" column="0" />
-        <mark key="]" line="89" column="80" />
-        <mark key="." line="89" column="80" />
+        <mark key="]" line="89" column="67" />
+        <mark key="." line="89" column="67" />
         <mark key="^" line="89" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/stock/repository.js" timestamp="1508733978768">
@@ -87,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>quantity</text>
@@ -126,7 +126,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVQcm9kdWN0Lm1pbmltdW0sIHNpdGVQcm9kdWN0Lm1heGltdW0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -141,8 +141,8 @@
         <entry>quantity</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
