@@ -13,10 +13,10 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/slcie/slice_test.go" timestamp="1508634802604">
-        <mark key="]" line="76" column="8" />
-        <mark key="^" line="76" column="8" />
-        <mark key="." line="76" column="8" />
+      <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/calc/calc.go" timestamp="1508635768056">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/hangul/hangul.go" timestamp="1508516491620">
         <mark key="]" line="5" column="4" />
@@ -38,11 +38,11 @@
       <jump line="18" column="4" filename="$USER_HOME$/GoglandProjects/discovery_go/src/github.com/jho2n/gogo/examples/strings_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhc2UgIikiOgogIC8vICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbXRcPg==</text>
@@ -51,31 +51,31 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIE91dHB1dDoKCS8vIFsxIDIgMyA0IDVdCgkvLyBsZW46IDUKCS8vIGNhcDogNQoJLy8KCS8vIFsxIDIgM10KCS8vIGxlbjogMwoJLy8gY2FwOiA1CgkvLwoJLy9bMSAyIDNdCgkvLyBsZW46IDMKCS8vIGNhcDogNQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgIikiOgogIC8vICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIE91dHB1dDoKCS8vIFsxIDIgMyA0IDVdCgkvLyBsZW46IDUKCS8vIGNhcDogNQoJLy8KCS8vIFsxIDIgM10KCS8vIGxlbjogMwoJLy8gY2FwOiA1CgkvLwoJLy9bMSAyIDNdCgkvLyBsZW46IDMKCS8vIGNhcDogNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJsZW46IiwgbGVuKHNsaWNlZDEpKQoJZm10LlByaW50bG4oImNhcDoiLCBjYXAoc2xpY2VkMSkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHNsaWNlZDEpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJsZW46IiwgbGVuKHNsaWNlZDEpKQoJZm10LlByaW50bG4oImNhcDoiLCBjYXAoc2xpY2VkMSkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKHNsaWNlZDEpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
