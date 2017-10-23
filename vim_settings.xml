@@ -29,12 +29,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508728324682">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="64" column="17" />
-        <mark key="]" line="64" column="33" />
-        <mark key="^" line="64" column="33" />
-        <mark key="." line="64" column="33" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508733134418">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="81" column="72" />
+        <mark key="^" line="81" column="72" />
+        <mark key="." line="81" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/index.js" timestamp="1508723232591">
         <mark key="[" line="8" column="53" />
@@ -58,19 +58,20 @@
       <jump line="80" column="17" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="77" column="4" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iantity</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>iantity</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>quantity</text>
       </register>
-      <register name="0" type="8">
-        <text>.catch(function(err) {console.error(err)});</text>
+      <register name="0" type="4">
+        <text>siteProduct.minimum)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -79,28 +80,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgdXJsID0gYCR7ZW52LnNzZXNVcmx9L3Byb2R1Y3QvaXRlbXM/c2l0ZVByb2R1Y3RJZHM9JHtzaXRlUHJvZHVjdElkcy5qb2luKCIsIil9YDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgdXJsID0gYCR7ZW52LnNzZXNVcmx9L3Byb2R1Y3QvaXRlbXM/c2l0ZVByb2R1Y3RJZHM9JHtzaXRlUHJvZHVjdElkcy5qb2luKCIsIil9YDsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgc2l0ZVByb2R1Y3RzID0gCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQgc2l0ZVByb2R1Y3RzID0gCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogICJjYXJ0cyI6IFsKICAgIHsKICAgICAgInF1YW50aXR5IjogMSwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzEsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTYsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9LAogICAgewogICAgICAicXVhbnRpdHkiOiAyMCwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzMsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTgsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9CiAgXQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ewogICJjYXJ0cyI6IFsKICAgIHsKICAgICAgInF1YW50aXR5IjogMSwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzEsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTYsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9LAogICAgewogICAgICAicXVhbnRpdHkiOiAyMCwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzMsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTgsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9CiAgXQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIHNpdGVQcm9kdWN0U2VydmljZS5nZXRTaXRlUHJvZHVjdExpc3QodXJsLCByZXEudXNlciB8fCB7fSkKLy8gICAgLnRoZW4ocmVzID0+IHsKLy8KLy8gICAgICBsZXQgc2l0ZVByb2R1Y3RzID0gcmVzLmRhdGEuaXRlbXM7Ci8vCi8vICAgICAgbGV0IGRhdGEgPSBbXTsKLy8gICAgICBzaXRlUHJvZHVjdHMuZm9yRWFjaChzaXRlUHJvZHVjdCA9PiB7Ci8vICAgICAgICBsZXQgc2l0ZVByb2R1Y3RJZCA9IHNpdGVQcm9kdWN0LnNpdGVQcm9kdWN0SWQ7Ci8vICAgICAgICBsZXQgY2FydCAgICAgICAgICA9IGNhcnRzW3NpdGVQcm9kdWN0SWRdOwovLwovLyAgICAgICAgZGF0YS5wdXNoKHsKLy8gICAgICAgICAgc2l0ZVByb2R1Y3RJZCwKLy8gICAgICAgICAgbWVtYmVySWQgICAgIDogcmVxLnVzZXIubWVtYmVySWQsCi8vICAgICAgICAgIHF1YW50aXR5ICAgICA6IGNhcnQucXVhbnRpdHksCi8vICAgICAgICAgIHNhbGVQcmljZSAgICA6IHNpdGVQcm9kdWN0LnNhbGVQcmljZSwKLy8gICAgICAgICAgcHJvZHVjdElkICAgIDogY2FydC5wcm9kdWN0SWQsCi8vICAgICAgICAgIHByb2R1Y3RJdGVtSWQ6IGNhcnQucHJvZHVjdEl0ZW1JZCwKLy8gICAgICAgICAgcG9pbnQgICAgICAgIDogc2l0ZVByb2R1Y3QuZWFybmluZ1BvaW50cwovLyB9KQovLyA7Ci8vIH0pCi8vIDsKLy8gfSkKLy8gOwoKLy8gIGNvbnNvbGUubG9nKGRhdGEpOwovLwovLyAgY29uc29sZS5sb2coc2l0ZVByb2R1Y3RzKTsK</text>
+        <text encoding="base64">ewogICJjYXJ0cyI6IFsKICAgIHsKICAgICAgInF1YW50aXR5IjogMSwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzEsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTYsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9LAogICAgewogICAgICAicXVhbnRpdHkiOiAyMCwKICAgICAgInNpdGVQcm9kdWN0SWQiOiA5MzE3MzMsCiAgICAgICJwcm9kdWN0SWQiOiA5Mjc4NTgsCiAgICAgICJwcm9kdWN0SXRlbUlkIjogNDg0ODk3CiAgICB9CiAgXQp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -115,8 +116,8 @@
         <entry>quantity</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
