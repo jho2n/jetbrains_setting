@@ -29,11 +29,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508725832887">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="66" column="2" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508728324682">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/index.js" timestamp="1508723232591">
         <mark key="[" line="8" column="53" />
@@ -53,17 +54,20 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="83" column="46" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
       <jump line="80" column="17" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>iantity</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>iantity</text>
+      </register>
+      <register name="/" type="4">
+        <text>quantity</text>
       </register>
       <register name="0" type="8">
         <text>.catch(function(err) {console.error(err)});</text>
@@ -100,11 +104,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>quantity</last-search>
+      <last-offset />
+      <last-pattern>quantity</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>quantity</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>wq</entry>
