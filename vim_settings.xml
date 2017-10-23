@@ -1,0 +1,96 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/s-api/app/utils/elasticsearch.js" timestamp="1508722282700">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1508722240130">
+        <mark key="'" line="83" column="46" />
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="47" />
+        <mark key="^" line="83" column="47" />
+        <mark key="." line="83" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508722301068">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="53" column="92" />
+        <mark key="]" line="53" column="91" />
+        <mark key="." line="53" column="91" />
+        <mark key="^" line="53" column="91" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="83" column="46" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaChlcnIsIGZ1bmN0aW9uIChlcnIpIHtjb25zb2xlLmVycm9yKGVycik7CiAgfSk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBvbwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaChuZXh0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaXRlUHJvZHVjdHMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">7LGE64SQ7J2EIO2MlOuhnOyasCDtlojsnYQg65WMIOydkeuLteydtCAi64K06rCAIO2MlOuhnOyasO2VnCDssYTrhJAg66qp66GdIuydmCDrqqjrjbjqs7wg7J247YSw7Y6Y7J207Iqk6rCAIOqwmeycvOuptCDtgbTrnbzsnbTslrjtirjsl5DshJwgIuuCtOqwgCDtjJTroZzsmrDtlZwg7LGE64SQIOuqqeuhnSLsnYQg64uk7IucIGZldGNo7ZWY64qUIOyImOqzoOulvCDrjZwg7IiYIOyeiOyKteuLiOuLpC4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
