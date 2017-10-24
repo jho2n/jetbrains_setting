@@ -1,0 +1,171 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="vim_settings.xml" timestamp="1508722508306">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508733345110">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/repository.js" timestamp="1508734372868">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1508725309538">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+        <mark key="^" line="80" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508735334727">
+        <mark key="[" line="89" column="67" />
+        <mark key="m" line="79" column="0" />
+        <mark key="]" line="89" column="67" />
+        <mark key="." line="89" column="67" />
+        <mark key="^" line="89" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/stock/repository.js" timestamp="1508733978768">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/index.js" timestamp="1508723232591">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508724364614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/item/stock/repository.js" timestamp="1508733599004">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1508733802563">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/utils/elasticsearch.js" timestamp="1508723754341">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" timestamp="1508725739434">
+        <mark key="'" line="5" column="1" />
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="83" column="46" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
+      <jump line="80" column="17" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" />
+      <jump line="5" column="1" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="77" column="4" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="99" column="2" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="88" column="40" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+      <register name="/" type="4">
+        <text>quantity</text>
+      </register>
+      <register name="0" type="4">
+        <text>productItem.getDataValue(&quot;isManageStock&quot;)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBwcm9kdWN0SXRlbS5nZXREYXRhVmFsdWUoImlzTWFuYWdlU3RvY2siKSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgogICAg</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcHJvZHVjdEl0ZW1TdG9ja1JlcG9zaXRvcnkuZ2V0UHJvZHVjdEl0ZW1TdG9jaygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVQcm9kdWN0Lm1pbmltdW0sIHNpdGVQcm9kdWN0Lm1heGltdW0pOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>quantity</last-search>
+      <last-offset />
+      <last-pattern>quantity</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>quantity</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
