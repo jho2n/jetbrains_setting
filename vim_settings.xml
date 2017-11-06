@@ -6,6 +6,53 @@
       <file name="vim_settings.xml" timestamp="1508722508306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1508725309538">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+        <mark key="^" line="80" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/docker/docker-compose.yml" timestamp="1509941398362">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/stock/repository.js" timestamp="1508733978768">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1509969875587">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1509972610153">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="72" column="63" />
+        <mark key="]" line="74" column="79" />
+        <mark key="." line="74" column="79" />
+        <mark key="^" line="74" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/service.js" timestamp="1509969330810">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1509956768812">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508733345110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,12 +62,10 @@
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1508725309538">
-        <mark key="'" line="80" column="17" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="14" />
-        <mark key="." line="80" column="14" />
-        <mark key="^" line="80" column="14" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/shipping/repository.js" timestamp="1509971352813">
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508735334727">
         <mark key="[" line="89" column="67" />
@@ -29,17 +74,23 @@
         <mark key="." line="89" column="67" />
         <mark key="^" line="89" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/stock/repository.js" timestamp="1508733978768">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/repository.js" timestamp="1509969372232">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/index.js" timestamp="1508723232591">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="59" />
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/order.js" timestamp="1509973778254">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508724364614">
         <mark key="[" line="0" column="0" />
@@ -52,16 +103,24 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1508733802563">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/s-api/app/utils/elasticsearch.js" timestamp="1508723754341">
         <mark key="[" line="24" column="48" />
         <mark key="]" line="24" column="46" />
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/order/shipping/address.model.js" timestamp="1509972632929">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="89" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1509969562584">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="68" column="6" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" timestamp="1508725739434">
         <mark key="'" line="5" column="1" />
@@ -70,10 +129,35 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509974063660">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="7" />
+        <mark key="." line="105" column="7" />
+        <mark key="^" line="105" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/index.js" timestamp="1509966221824">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/order/shipping/model.js" timestamp="1509972192260">
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/shipping/service.js" timestamp="1509970261426">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -84,64 +168,149 @@
       <jump line="77" column="4" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="99" column="2" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="88" column="40" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="131" column="13" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="160" column="28" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="162" column="13" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="89" column="82" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="36" column="25" filename="$USER_HOME$/Projects/s-api/app/config/local.env.js" />
+      <jump line="107" column="54" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="341" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/s-api/app/models/index.js" />
+      <jump line="98" column="51" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="105" column="8" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>)</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>quantity</text>
+        <text>Order</text>
       </register>
       <register name="0" type="4">
-        <text>productItem.getDataValue(&quot;isManageStock&quot;)</text>
+        <text>orderShippingAddress&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBwcm9kdWN0SXRlbS5nZXREYXRhVmFsdWUoImlzTWFuYWdlU3RvY2siKSk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdEl0ZW1TdG9ja1JlcG9zaXRvcnkuZ2V0UHJvZHVjdEl0ZW1TdG9jaygpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChudWxsICE9PSBvcmRlclNoaXBwaW5nICYmIG9yZGVyU2hpcHBpbmcub3JkZXJTaGlwcGluZ0lkID4gMCkgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBvcmRlclNoaXBwaW5nID0gYXdhaXQgb3JkZXIuZ2V0T3JkZXJTaGlwcGluZygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+      name: 'idx_order_shipping_address__order_shipping_id',
+      fields: 'order_shipping_id',
+    },</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkgIGZpZWxkOiAnem9uZV9pZCcsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVQcm9kdWN0Lm1pbmltdW0sIHNpdGVQcm9kdWN0Lm1heGltdW0pOwo=</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>quantity</last-search>
+      <last-search>Order</last-search>
       <last-offset />
-      <last-pattern>quantity</last-pattern>
+      <last-pattern>Order</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>quantity</entry>
+        <entry>forEach</entry>
+        <entry>productCouponApply</entry>
+        <entry>logging</entry>
+        <entry>Order</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -165,6 +334,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
