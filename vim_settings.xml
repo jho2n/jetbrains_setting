@@ -68,6 +68,12 @@
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1509956723868">
+        <mark key="[" line="68" column="6" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/repository.js" timestamp="1508725739434">
         <mark key="'" line="5" column="1" />
         <mark key="[" line="5" column="46" />
@@ -75,17 +81,22 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509941506903">
-        <mark key="'" line="89" column="82" />
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="43" column="51" />
-        <mark key="^" line="43" column="51" />
-        <mark key="." line="43" column="51" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509956846192">
+        <mark key="'" line="91" column="82" />
+        <mark key="[" line="162" column="37" />
+        <mark key="]" line="163" column="43" />
+        <mark key="." line="163" column="43" />
+        <mark key="^" line="163" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="26" />
         <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1509956768812">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
         <mark key="[" line="33" column="0" />
@@ -108,10 +119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nulciwl</text>
+        <text>couponId</text>
       </register>
       <register name="-" type="4">
-        <text>nulciwl</text>
+        <text>couponId</text>
       </register>
       <register name="/" type="4">
         <text>productCouponApply</text>
@@ -120,34 +131,34 @@
         <text>productItem.getDataValue(&quot;isManageStock&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICBleHRlcm5hbDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhcnRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgcmVkaXMuc3RvcmU6Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyUHJvZHVjdCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY291cG9uSWQsIGNvdXBvbik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY291cG9uKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICBleHRlcm5hbDogdHJ1ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAgcmVkaXMuc3RvcmU6Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LnN0b3JlOi9kYXRhCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>#  redis:
 #    image: redis:alpine
 #    volumes:
 #      - redis</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBwcm9kdWN0SXRlbS5nZXREYXRhVmFsdWUoImlzTWFuYWdlU3RvY2siKSk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAg</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdEl0ZW1TdG9ja1JlcG9zaXRvcnkuZ2V0UHJvZHVjdEl0ZW1TdG9jaygpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
