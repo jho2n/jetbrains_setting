@@ -86,11 +86,11 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/order.js" timestamp="1509972573383">
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/order.js" timestamp="1509973778254">
         <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508724364614">
         <mark key="[" line="0" column="0" />
@@ -129,12 +129,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509972838836">
-        <mark key="'" line="98" column="51" />
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="56" />
-        <mark key="." line="101" column="56" />
-        <mark key="^" line="101" column="55" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509974063660">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="7" />
+        <mark key="." line="105" column="7" />
+        <mark key="^" line="105" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
         <mark key="[" line="33" column="26" />
@@ -178,10 +178,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/s-api/app/models/index.js" />
       <jump line="98" column="51" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="105" column="8" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orderShippingService.find({orderId: order.orderId}, {order: [[&quot;orderShippingId&quot;, &quot;desc&quot;]]});</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -215,7 +216,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>orderShippingService.find({orderId: order.orderId}, {order: [[&quot;orderShippingId&quot;, &quot;desc&quot;]]});</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Order</text>
@@ -223,11 +224,8 @@
       <register name="0" type="4">
         <text>orderShippingAddress&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-      name: 'idx_order_shipping_address__order_shipping_id',
-      fields: 'order_shipping_id',
-    },</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -265,28 +263,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnem9uZV9pZCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnbGV0IG9yZGVyU2hpcHBpbmc7Jwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfJywK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChudWxsICE9PSBvcmRlclNoaXBwaW5nICYmIG9yZGVyU2hpcHBpbmcub3JkZXJTaGlwcGluZ0lkID4gMCkgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBvcmRlclNoaXBwaW5nID0gYXdhaXQgb3JkZXIuZ2V0T3JkZXJTaGlwcGluZygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+      name: 'idx_order_shipping_address__order_shipping_id',
+      fields: 'order_shipping_id',
+    },</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoganNoaW50IGluZGVudDogMSAqLwo=</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnem9uZV9pZCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vJG9yZGVyID0gTW9kdWxlczo6bG9hZCgna2Zfb3JkZXIva2Zfb3JkZXInKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnTUFYKG9yZGVyX2lkKSBBUyBgb3JkZXJfaWRgJyksIGFycmF5KCJtZW1iZXJfaWQgPSAneyRtZW1iZXJbJ21lbWJlcl9pZCddfSciKSk7Cg==</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
