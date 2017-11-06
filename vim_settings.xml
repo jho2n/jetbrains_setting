@@ -70,6 +70,13 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509940701563">
+        <mark key="'" line="89" column="82" />
+        <mark key="[" line="161" column="41" />
+        <mark key="]" line="162" column="23" />
+        <mark key="^" line="162" column="23" />
+        <mark key="." line="162" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -84,6 +91,10 @@
       <jump line="77" column="4" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="99" column="2" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="88" column="40" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
+      <jump line="131" column="13" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="160" column="28" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="162" column="13" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
+      <jump line="89" column="82" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -93,7 +104,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>quantity</text>
+        <text>productCouponApply</text>
       </register>
       <register name="0" type="4">
         <text>productItem.getDataValue(&quot;isManageStock&quot;)</text>
@@ -130,15 +141,17 @@
       </register>
     </registers>
     <search>
-      <last-search>quantity</last-search>
+      <last-search>productCouponApply</last-search>
       <last-offset />
-      <last-pattern>quantity</last-pattern>
+      <last-pattern>productCouponApply</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>quantity</entry>
+        <entry>forEach</entry>
+        <entry>productCouponApply</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
