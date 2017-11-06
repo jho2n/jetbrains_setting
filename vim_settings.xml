@@ -30,11 +30,12 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1509970328437">
-        <mark key="'" line="102" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1509972610153">
+        <mark key="'" line="103" column="0" />
         <mark key="[" line="72" column="63" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="]" line="74" column="79" />
+        <mark key="." line="74" column="79" />
+        <mark key="^" line="74" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/service.js" timestamp="1509969330810">
         <mark key="[" line="17" column="16" />
@@ -85,6 +86,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/order.js" timestamp="1509972573383">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508724364614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -102,6 +109,12 @@
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/order/shipping/address.model.js" timestamp="1509972632929">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="89" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1509969562584">
         <mark key="'" line="36" column="25" />
         <mark key="[" line="68" column="6" />
@@ -116,12 +129,12 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509971435376">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="101" column="59" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="101" column="57" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509972838836">
+        <mark key="'" line="98" column="51" />
+        <mark key="[" line="101" column="56" />
+        <mark key="]" line="101" column="56" />
+        <mark key="." line="101" column="56" />
+        <mark key="^" line="101" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
         <mark key="[" line="33" column="26" />
@@ -134,11 +147,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/order/shipping/model.js" timestamp="1509971327272">
-        <mark key="[" line="75" column="5" />
-        <mark key="]" line="77" column="22" />
-        <mark key="." line="77" column="22" />
-        <mark key="^" line="77" column="22" />
+      <file name="$USER_HOME$/Projects/s-api/app/models/order/shipping/model.js" timestamp="1509972192260">
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/shipping/service.js" timestamp="1509970261426">
         <mark key="[" line="0" column="0" />
@@ -164,51 +177,116 @@
       <jump line="341" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/s-api/app/models/index.js" />
+      <jump line="98" column="51" filename="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vJG9yZGVyID0gTW9kdWxlczo6bG9hZCgna2Zfb3JkZXIva2Zfb3JkZXInKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnTUFYKG9yZGVyX2lkKSBBUyBgb3JkZXJfaWRgJyksIGFycmF5KCJtZW1iZXJfaWQgPSAneyRtZW1iZXJbJ21lbWJlcl9pZCddfSciKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>orderShippingService.find({orderId: order.orderId}, {order: [[&quot;orderShippingId&quot;, &quot;desc&quot;]]});</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>orderShippingService.find({orderId: order.orderId}, {order: [[&quot;orderShippingId&quot;, &quot;desc&quot;]]});</text>
       </register>
       <register name="/" type="4">
         <text>Order</text>
       </register>
       <register name="0" type="4">
-        <text>shipping_group_extend_id:</text>
+        <text>orderShippingAddress&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vJG9yZGVyID0gTW9kdWxlczo6bG9hZCgna2Zfb3JkZXIva2Zfb3JkZXInKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnTUFYKG9yZGVyX2lkKSBBUyBgb3JkZXJfaWRgJyksIGFycmF5KCJtZW1iZXJfaWQgPSAneyRtZW1iZXJbJ21lbWJlcl9pZCddfSciKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+      name: 'idx_order_shipping_address__order_shipping_id',
+      fields: 'order_shipping_id',
+    },</text>
       </register>
       <register name="q" type="4">
-        <text>0$hhhv^</text>
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgIGZpZWxkOiAnJywK</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnem9uZV9pZCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgZmllbGQ6ICcsJyAK</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>/* jshint indent: 1 */
-
-module.exports = f</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkgIGZpZWxkOiAnbGV0IG9yZGVyU2hpcHBpbmc7Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJvbW90aW9uQXR0cmlidXRlQ2hhbm5lbEdyb3VwOiB7CiAgZGF0YVZhbHVlczogewogICAgcHJvbW90aW9uQXR0cmlidXRlQ2hhbm5lbEdyb3VwSWQ6IDYsCiAgICBwcm9tb3Rpb25JZDogNDAsCiAgICBjaGFubmVsR3JvdXBJZDogMSwKICAgIHByb21vdGlvbl9pZDogNDAsCiAgICBwcm9tb3Rpb246IFByb21vdGlvbiB7CiAgZGF0YVZhbHVlczogW09iamVjdF0sCiAgX3ByZXZpb3VzRGF0YVZhbHVlczogW09iamVjdF0sCiAgX2NoYW5nZWQ6IHt9LAogIF9tb2RlbE9wdGlvbnM6IFtPYmplY3RdLAogIF9vcHRpb25zOiBbT2JqZWN0XSwKICBfX2VhZ2VybHlMb2FkZWRBc3NvY2lhdGlvbnM6IFtdLAogIGlzTmV3UmVjb3JkOiBmYWxzZQp9LApjaGFubmVsOiBbW09iamVjdF1dCn0K</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfaWQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRzZWxlY3RlZF96b25lX2lkID0gJyc7CiAgICAkb3JkZXIgPSBNb2R1bGVzOjpsb2FkKCdrZl9vcmRlci9rZl9vcmRlcicpLT5nZXRfcm93X3R5cGUyKGFycmF5KCdNQVgob3JkZXJfaWQpIEFTIGBvcmRlcl9pZGAnKSwgYXJyYXkoIm1lbWJlcl9pZCA9ICd7JG1lbWJlclsnbWVtYmVyX2lkJ119JyIpKTsK</text>
+        <text encoding="base64">CQkgIGZpZWxkOiAnb3JkZXJfc2hpcHBpbmdfJywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICRtZW1iZXIgPSBNb2R1bGVzOjpsb2FkKCdrZl9tZW1iZXIva2ZfbWVtYmVyJyktPmdldF9tZW1iZXJfcm93KGFycmF5KAovLyAgICAibS5tZW1iZXJfaWQgPSAnIiAuIGdldF9zZXNzaW9uKCdmcm9udCcsICdtZW1iZXJfaWQnKSAuICInIgovLyksIGFycmF5KAovLyAgICBhcnJheSgna2V5JyA9PiAnbmFtZScpLAovLyAgYXJyYXkoJ2tleScgPT4gJ2FkZHJlc3MnKSwKLy8gIGFycmF5KCdrZXknID0+ICdhZGRyZXNzX2RldGFpbCcpLAovLyAgYXJyYXkoJ2tleScgPT4gJ3Bob25lJyksCi8vICBhcnJheSgna2V5JyA9PiAncG9zdGNvZGUnKSwKLy8pKTsK</text>
+        <text encoding="base64">LyoganNoaW50IGluZGVudDogMSAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vJG9yZGVyID0gTW9kdWxlczo6bG9hZCgna2Zfb3JkZXIva2Zfb3JkZXInKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnTUFYKG9yZGVyX2lkKSBBUyBgb3JkZXJfaWRgJyksIGFycmF5KCJtZW1iZXJfaWQgPSAneyRtZW1iZXJbJ21lbWJlcl9pZCddfSciKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
