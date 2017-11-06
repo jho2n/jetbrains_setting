@@ -22,6 +22,11 @@
         <mark key="." line="80" column="14" />
         <mark key="^" line="80" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/docker/docker-compose.yml" timestamp="1509941398362">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1508735334727">
         <mark key="[" line="89" column="67" />
         <mark key="m" line="79" column="0" />
@@ -70,12 +75,17 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509940701563">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1509941506903">
         <mark key="'" line="89" column="82" />
-        <mark key="[" line="161" column="41" />
-        <mark key="]" line="162" column="23" />
-        <mark key="^" line="162" column="23" />
-        <mark key="." line="162" column="23" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/repository.js" timestamp="1508725123125">
         <mark key="[" line="33" column="0" />
@@ -98,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>nulciwl</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>nulciwl</text>
       </register>
       <register name="/" type="4">
         <text>productCouponApply</text>
@@ -110,31 +120,34 @@
         <text>productItem.getDataValue(&quot;isManageStock&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
+        <text encoding="base64">IyAgICBleHRlcm5hbDogdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBwcm9kdWN0SXRlbS5nZXREYXRhVmFsdWUoImlzTWFuYWdlU3RvY2siKSk7Cg==</text>
+        <text encoding="base64">IyAgcmVkaXMuc3RvcmU6Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">LnN0b3JlOi9kYXRhCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtKTsK</text>
+      <register name="4" type="4">
+        <text>#  redis:
+#    image: redis:alpine
+#    volumes:
+#      - redis</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdEl0ZW1TdG9ja1JlcG9zaXRvcnkuZ2V0UHJvZHVjdEl0ZW1TdG9jaygpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtLmdldERhdGFWYWx1ZSgiaXNNYW5hZ2VTdG9jayIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBwcm9kdWN0SXRlbS5nZXREYXRhVmFsdWUoImlzTWFuYWdlU3RvY2siKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGIuU2l0ZVByb2R1Y3RJdGVtICAgICAgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vbW9kZWwiKTsKZGIuU2l0ZVByb2R1Y3RJdGVtU3RvY2sgICAgICAgICAgICAgICA9IGRiLnNlcXVlbGl6ZS5pbXBvcnQoIi4vc2l0ZS9wcm9kdWN0L2l0ZW0vc3RvY2subW9kZWwiKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgogICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RJdGVtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVQcm9kdWN0Lm1pbmltdW0sIHNpdGVQcm9kdWN0Lm1heGltdW0pOwo=</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdEl0ZW1TdG9ja1JlcG9zaXRvcnkuZ2V0UHJvZHVjdEl0ZW1TdG9jaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
