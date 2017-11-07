@@ -152,11 +152,11 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510039517516">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510041618589">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+        <mark key="^" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/associations/order.js" timestamp="1509973778254">
         <mark key="[" line="6" column="50" />
@@ -192,7 +192,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510040909350">
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510041606401">
         <mark key="'" line="35" column="25" />
         <mark key="[" line="31" column="16" />
         <mark key="]" line="37" column="9" />
