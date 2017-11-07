@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/issue/service.js" timestamp="1510054073753">
         <mark key="[" line="25" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
+        <mark key="[" line="8" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/stock/repository.js" timestamp="1508733978768">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -44,6 +47,7 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/repository.js" timestamp="1510060061187" />
       <file name="$USER_HOME$/Projects/s-api/aws_scripts/docker/pull-image.sh" timestamp="1510033791983">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="30" />
@@ -74,11 +78,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510040306259">
-        <mark key="[" line="125" column="5" />
-        <mark key="]" line="125" column="8" />
-        <mark key="." line="125" column="8" />
-        <mark key="^" line="125" column="8" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510060626871">
+        <mark key="[" line="83" column="26" />
+        <mark key="]" line="81" column="5" />
+        <mark key="." line="81" column="5" />
+        <mark key="^" line="81" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
@@ -130,6 +134,12 @@
         <mark key="^" line="62" column="38" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/index.js" timestamp="1510059299398">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1510040334877">
         <mark key="'" line="90" column="17" />
         <mark key="[" line="72" column="0" />
@@ -156,13 +166,16 @@
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510056251126">
+      <file name="/Dummy.txt" timestamp="1510056260316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/coupon/index.js" timestamp="1510058513319">
+        <mark key="[" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/process.yml" timestamp="1510047161764">
         <mark key="[" line="4" column="15" />
@@ -241,8 +254,8 @@
       <jump line="56" column="56" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -276,7 +289,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>certification</text>
@@ -285,7 +298,7 @@
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzaXRlUHJvZHVjdHMgPSBnZXRMaXN0KFNTU1NfVVJMLlBST0RVQ1QuKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,28 +334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGN1cnJlbnREYXRldGltZSA9IG5ldyBEYXRlKCk7CiAgICAgIGlmIChzaXRlUHJvZHVjdC5kaXNjb3VudEJlZ2luRGF0ZXRpbWUgPD0gY3VycmVudERhdGV0aW1lCiAgICAgICAgICAmJiBzaXRlUHJvZHVjdC5kaXNjb3VudEVuZERhdGV0aW1lID49IGN1cnJlbnREYXRldGltZQogICAgICAgICAgJiYgcGFyc2VGbG9hdChzaXRlUHJvZHVjdC5kaXNjb3VudFJhdGUpID4gMCkgewogICAgICAgIHNpdGVQcm9kdWN0LnNldERhdGFWYWx1ZSgiaXNEaXNjb3VudGluZyIsIDEpOwogICAgICB9IGVsc2UgewogICAgICAgIHNpdGVQcm9kdWN0LnNldERhdGFWYWx1ZSgiaXNEaXNjb3VudGluZyIsIDApOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2l0ZVByb2R1Y3QuZGlzY291bnRSYXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2l0ZVByb2R1Y3QuZ2V0KHtwbGFpbjp0cnVlfSkpOwo=</text>
+        <text encoding="base64">ICAgIHNpdGVQcm9kdWN0SWQ6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyb3cgPT4ge2NvbnNvbGUubG9nKHJvdyk7IHJldHVybiByb3c7fSkK</text>
+        <text encoding="base64">ICBsZXQgd2hlcmUgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvdwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
