@@ -32,10 +32,10 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/docker/staging.docker-compose.yml" timestamp="1510030430341">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/docker/staging.docker-compose.yml" timestamp="1510037864119">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1509969875587">
         <mark key="[" line="17" column="0" />
@@ -54,6 +54,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/docker/local.docker-compose.yml" timestamp="1510037784913">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/service.js" timestamp="1509969330810">
         <mark key="[" line="17" column="16" />
@@ -77,7 +83,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510034946058">
+      <file name="/Dummy.txt" timestamp="1510035715471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/repository.js" timestamp="1508734372868">
@@ -219,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>i</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -253,7 +259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>certification</text>
@@ -322,7 +328,7 @@
         <text encoding="base64">ICBzdWRvIGRvY2tlciBwdWxsIHNlb3Vsc3RvcmUvcy1hcGk6cHJvZAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5ub2g=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -348,8 +354,8 @@
         <entry>actionlist</entry>
         <entry>source ~/.vimrc</entry>
         <entry>set surround</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
