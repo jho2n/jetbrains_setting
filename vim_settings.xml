@@ -61,11 +61,11 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/.travis.yml" timestamp="1510034911886">
+      <file name="$USER_HOME$/Projects/s-api/.travis.yml" timestamp="1510035714369">
         <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="29" column="46" />
+        <mark key="]" line="29" column="58" />
+        <mark key="." line="29" column="58" />
+        <mark key="^" line="29" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1509956768812">
         <mark key="[" line="205" column="0" />
@@ -77,7 +77,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510034568311">
+      <file name="/Dummy.txt" timestamp="1510034946058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/product/item/repository.js" timestamp="1508734372868">
