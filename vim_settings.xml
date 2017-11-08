@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/has-many.js" timestamp="1510142111525" />
+      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/has-many.js" timestamp="1510143106148" />
       <file name="$USER_HOME$/Projects/s-api/app/models/site/product/display/group/description.model.js" timestamp="1510029534381">
         <mark key="'" line="1" column="61" />
         <mark key="[" line="11" column="17" />
@@ -90,11 +90,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510142243858">
-        <mark key="[" line="121" column="24" />
-        <mark key="]" line="121" column="24" />
-        <mark key="." line="121" column="24" />
-        <mark key="^" line="76" column="24" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510144120963">
+        <mark key="[" line="118" column="46" />
+        <mark key="]" line="118" column="46" />
+        <mark key="." line="118" column="46" />
+        <mark key="^" line="120" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
@@ -291,7 +291,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -325,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -333,8 +333,10 @@
       <register name="0" type="4">
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coZGIuQ291cG9uKTsK</text>
+      <register name="1" type="4">
+        <text>{
+        
+      }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,14 +371,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">UHJvbWlzZS5maWx0ZXIoc2l0ZVByb2R1Y3QuY291cG9ucywgY291cG9uID0+IHsKICAgICAgICAgICAgCiAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBdKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9taXNlLmFsbChbCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgY29uc29sZS5sb2coZGIuQ291cG9uKTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>{
           return {};
         }
 
         return</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>;
           return res.data.items;
         } else {
@@ -384,30 +401,10 @@
         }
       }</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>{
             
             return</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vZmlsdGVyZENvdXBvbklkcyA9IF8udW5pcShmaWx0ZXJkQ291cG9uSWRzKTsKCiAgICAvL18uZm9yRWFjaChzaXRlUHJvZHVjdENvdXBvbnMsIChjb3Vwb25zLCBpZHgpID0+IHsKICAgIC8vICBzaXRlUHJvZHVjdENvdXBvbnNbaWR4XSA9IGNvdXBvbnMuZmlsdGVyKGNvdXBvbiA9PiBmaWx0ZXJkQ291cG9uSWRzLmluZGV4T2YoY291cG9uLmNvdXBvbklkKSA9PT0gLTEpOwogICAgLy8gIHNpdGVQcm9kdWN0Q291cG9uc1tpZHhdID0gXy51bmlvbihzaXRlUHJvZHVjdENvdXBvbnNbaWR4XSwgbWVtYmVyQ291cG9ucyk7CiAgICAvL30pOwogICAgLy99CgogICAgLy9hd2FpdCBQcm9taXNlLmFsbChfLm1hcChzaXRlUHJvZHVjdENvdXBvbnMsIGNvdXBvbnMgPT4KICAgIC8vICBQcm9taXNlLm1hcChjb3Vwb25zLCBjb3Vwb24gPT4gewogICAgLy8gICAgaWYgKGNvdXBvbi5mYXZvclR5cGUgPT09IDApIHsKICAgIC8vICAgICAgY291cG9uLmRpc2NvdW50UHJpY2UgPQogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIGNvdXBvbi5nZXRDb3Vwb25EZXNjcmlwdGlvbigpCiAgICAvLyAgICAgIC50aGVuKGRlc2NyaXB0aW9ucyA9PiB7CiAgICAvLyAgICAgICAgY291cG9uLnNldERhdGFWYWx1ZSgiZGVzY3JpcHRpb25zIiwgRk9STUFUVEVSLk1PREVMLmRlc2NyaXB0aW9uKGRlc2NyaXB0aW9ucykpOwogICAgLy8gICAgICAgIHJldHVybiAiIjsKICAgIC8vICAgICAgfSk7CiAgICAvLyAgfSkKICAgIC8vKSk7</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgcmV0dXJuIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-                  return false;
-                }
-                return coupon</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-            
-          }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
