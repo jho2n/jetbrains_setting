@@ -89,11 +89,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510132810610">
-        <mark key="[" line="119" column="22" />
-        <mark key="]" line="119" column="22" />
-        <mark key="." line="119" column="22" />
-        <mark key="^" line="119" column="21" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510140493212">
+        <mark key="[" line="117" column="32" />
+        <mark key="]" line="116" column="9" />
+        <mark key="." line="116" column="9" />
+        <mark key="^" line="116" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
@@ -151,6 +151,9 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/issue/model.js" timestamp="1510140696728">
+        <mark key="[" line="43" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1510040334877">
         <mark key="'" line="90" column="17" />
         <mark key="[" line="72" column="0" />
@@ -158,13 +161,16 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="70" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/app.js" timestamp="1510140601522">
+        <mark key="[" line="23" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/routes.js" timestamp="1510032305573">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510129626929">
+      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510140680364">
         <mark key="[" line="189" column="18" />
         <mark key="]" line="189" column="19" />
         <mark key="^" line="189" column="19" />
@@ -181,13 +187,13 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510132800437">
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510140571636">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="17" />
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510056260316">
+      <file name="/Dummy.txt" timestamp="1510140212534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
@@ -278,7 +284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -312,7 +318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
