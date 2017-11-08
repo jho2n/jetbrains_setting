@@ -90,12 +90,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510147381889">
-        <mark key="'" line="143" column="56" />
-        <mark key="[" line="143" column="87" />
-        <mark key="]" line="143" column="131" />
-        <mark key="^" line="143" column="131" />
-        <mark key="." line="143" column="131" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510149540074">
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="127" column="49" />
+        <mark key="^" line="127" column="49" />
+        <mark key="." line="127" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
