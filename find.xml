@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -17,7 +18,6 @@
       <mask>*</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -25,6 +25,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

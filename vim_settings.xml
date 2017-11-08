@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/has-many.js" timestamp="1510142111525" />
       <file name="$USER_HOME$/Projects/s-api/app/models/site/product/display/group/description.model.js" timestamp="1510029534381">
         <mark key="'" line="1" column="61" />
         <mark key="[" line="11" column="17" />
@@ -89,11 +90,11 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510140493212">
-        <mark key="[" line="117" column="32" />
-        <mark key="]" line="116" column="9" />
-        <mark key="." line="116" column="9" />
-        <mark key="^" line="116" column="9" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510142243858">
+        <mark key="[" line="121" column="24" />
+        <mark key="]" line="121" column="24" />
+        <mark key="." line="121" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
@@ -151,8 +152,11 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/issue/model.js" timestamp="1510140696728">
-        <mark key="[" line="43" column="6" />
+      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/issue/model.js" timestamp="1510141569252">
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="60" column="1" />
+        <mark key="^" line="60" column="1" />
+        <mark key="." line="60" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1510040334877">
         <mark key="'" line="90" column="17" />
@@ -187,13 +191,13 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510140571636">
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510142163984">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="17" />
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510140212534">
+      <file name="/Dummy.txt" timestamp="1510141948754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
@@ -251,6 +255,9 @@
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/helpers.js" timestamp="1510141948150">
+        <mark key="[" line="63" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -326,12 +333,8 @@
       <register name="0" type="4">
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-          return {};
-        }
-
-        return</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgY29uc29sZS5sb2coZGIuQ291cG9uKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -367,6 +370,13 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text>{
+          return {};
+        }
+
+        return</text>
+      </register>
+      <register name="3" type="4">
         <text>;
           return res.data.items;
         } else {
@@ -374,30 +384,27 @@
         }
       }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             
             return</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IC8vZmlsdGVyZENvdXBvbklkcyA9IF8udW5pcShmaWx0ZXJkQ291cG9uSWRzKTsKCiAgICAvL18uZm9yRWFjaChzaXRlUHJvZHVjdENvdXBvbnMsIChjb3Vwb25zLCBpZHgpID0+IHsKICAgIC8vICBzaXRlUHJvZHVjdENvdXBvbnNbaWR4XSA9IGNvdXBvbnMuZmlsdGVyKGNvdXBvbiA9PiBmaWx0ZXJkQ291cG9uSWRzLmluZGV4T2YoY291cG9uLmNvdXBvbklkKSA9PT0gLTEpOwogICAgLy8gIHNpdGVQcm9kdWN0Q291cG9uc1tpZHhdID0gXy51bmlvbihzaXRlUHJvZHVjdENvdXBvbnNbaWR4XSwgbWVtYmVyQ291cG9ucyk7CiAgICAvL30pOwogICAgLy99CgogICAgLy9hd2FpdCBQcm9taXNlLmFsbChfLm1hcChzaXRlUHJvZHVjdENvdXBvbnMsIGNvdXBvbnMgPT4KICAgIC8vICBQcm9taXNlLm1hcChjb3Vwb25zLCBjb3Vwb24gPT4gewogICAgLy8gICAgaWYgKGNvdXBvbi5mYXZvclR5cGUgPT09IDApIHsKICAgIC8vICAgICAgY291cG9uLmRpc2NvdW50UHJpY2UgPQogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIGNvdXBvbi5nZXRDb3Vwb25EZXNjcmlwdGlvbigpCiAgICAvLyAgICAgIC50aGVuKGRlc2NyaXB0aW9ucyA9PiB7CiAgICAvLyAgICAgICAgY291cG9uLnNldERhdGFWYWx1ZSgiZGVzY3JpcHRpb25zIiwgRk9STUFUVEVSLk1PREVMLmRlc2NyaXB0aW9uKGRlc2NyaXB0aW9ucykpOwogICAgLy8gICAgICAgIHJldHVybiAiIjsKICAgIC8vICAgICAgfSk7CiAgICAvLyAgfSkKICAgIC8vKSk7</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgcmV0dXJuIA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
                   return false;
                 }
                 return coupon</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
             
           }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
