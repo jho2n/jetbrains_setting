@@ -90,11 +90,12 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510144120963">
-        <mark key="[" line="118" column="46" />
-        <mark key="]" line="118" column="46" />
-        <mark key="." line="118" column="46" />
-        <mark key="^" line="120" column="13" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510147381889">
+        <mark key="'" line="143" column="56" />
+        <mark key="[" line="143" column="87" />
+        <mark key="]" line="143" column="131" />
+        <mark key="^" line="143" column="131" />
+        <mark key="." line="143" column="131" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510055452769">
         <mark key="[" line="63" column="13" />
@@ -174,7 +175,7 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510140680364">
+      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510145776151">
         <mark key="[" line="189" column="18" />
         <mark key="]" line="189" column="19" />
         <mark key="^" line="189" column="19" />
@@ -288,10 +289,12 @@
       <jump line="56" column="56" filename="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" />
       <jump line="109" column="42" filename="$USER_HOME$/Projects/s-api/app/controllers/coupon/service.js" />
       <jump line="88" column="24" filename="$USER_HOME$/Projects/s-api/app/controllers/coupon/service.js" />
+      <jump line="142" column="153" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" />
+      <jump line="145" column="56" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -325,7 +328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
