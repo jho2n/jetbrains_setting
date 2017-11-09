@@ -25,6 +25,11 @@
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
         <mark key="[" line="8" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/service.js" timestamp="1510222781653">
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/service.js" timestamp="1510124415017">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="22" column="37" />
@@ -36,6 +41,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510222835926">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510157544736">
         <mark key="[" line="189" column="18" />
@@ -71,6 +79,9 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/index.js" timestamp="1510222873004">
+        <mark key="[" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/.travis.yml" timestamp="1510035714369">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="58" />
@@ -93,7 +104,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510191791885">
+      <file name="/Dummy.txt" timestamp="1510196502304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
@@ -115,8 +126,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/utils/base.js" timestamp="1510056246303">
-        <mark key="[" line="105" column="43" />
+      <file name="$USER_HOME$/Projects/s-api/app/utils/base.js" timestamp="1510219358262">
+        <mark key="[" line="128" column="0" />
         <mark key="]" line="80" column="5" />
         <mark key="^" line="80" column="5" />
         <mark key="." line="80" column="5" />
@@ -150,10 +161,11 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510193028258">
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510202909018">
         <mark key="[" line="66" column="13" />
-        <mark key="]" line="66" column="13" />
-        <mark key="." line="66" column="13" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510022500245">
         <mark key="[" line="53" column="0" />
@@ -165,6 +177,9 @@
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="26" />
         <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
+        <mark key="[" line="42" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/helpers.js" timestamp="1510141948150">
         <mark key="[" line="63" column="0" />
@@ -499,7 +514,7 @@
       <last-offset />
       <last-pattern>memberGroupId</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
