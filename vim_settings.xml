@@ -11,6 +11,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/has-many.js" timestamp="1510227660012" />
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/issue/service.js" timestamp="1510054073753">
         <mark key="[" line="25" column="2" />
       </file>
@@ -42,11 +43,11 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510225653747">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510228847472">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510157544736">
         <mark key="[" line="189" column="18" />
@@ -75,6 +76,12 @@
         <mark key="]" line="120" column="21" />
         <mark key="^" line="120" column="21" />
         <mark key="." line="120" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/utils/iamport.js" timestamp="1510228481196">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/aws_scripts/docker/pull-image.sh" timestamp="1510033791983">
         <mark key="[" line="2" column="28" />
@@ -110,7 +117,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510196502304">
+      <file name="/Dummy.txt" timestamp="1510227561183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
@@ -179,10 +186,10 @@
         <mark key="^" line="62" column="38" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1509941134896">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
+      <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1510228397334">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
@@ -236,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>err</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -270,7 +277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -279,7 +286,7 @@
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y29uc3QgSU1QT1JUID0gewogIGJhc2VVcmw6ICJhcGkuaWFtcG9ydC5rciIsCn07Cgpjb25zdCBvcHRpb25zID0gewogIGhvc3RuYW1lOiBJTVBPUlQuYmFzZVVybCwKfTsK</text>
+        <text encoding="base64">ID0+IHsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -315,28 +322,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRpbXBvcnQgaHR0cHMgZnJvbSAiaHR0cHMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhvc3RuYW1lOiAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZSA9PiB7CiAgICAgIGNvbnNvbGUuZXJyb3IoZSk7CgogICAgICByZXMuc3RhdHVzKDIwMCkKICAgICAgICAuanNvbihlKTsKICAgIH0pOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjaGFubmVsR3JvdXBJZCI6IDEsCiAgICAgICAgICAiaW1hZ2VzIjogewogICAgICAgICAgICAicHJvZmlsZUltYWdlIjogIi9kYXRhL3Nlb3Vsc3RvcmUvY2hhbm5lbC9wcm9maWxlL2ltYWdlL2IwY2NiNzc0NDY5Zjg1ZjBjZjQ0YTdmNzJkYTUyZWM0LmpwZyIKICAgICAgICAgIH0sCiAgICAgICAgICAiZGVzY3JpcHRpb25zIjogewogICAgICAgICAgICAiY2hhbm5lbE5hbWUiOiAiMzjsu7TsmKjsu6TrqLwiLAogICAgICAgICAgICAiY2hhbm5lbE5hbWVFbmciOiAiMzhjb21lb25jb21tb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxJZCI6IDk4MSwKICAgICAgICAgICJncm91cCI6IHsKICAgICAgICAgICAgImNoYW5uZWxHcm91cElkIjogMSwKICAgICAgICAgICAgIm5hbWVFbmciOiAiYnJhbmQiLAogICAgICAgICAgICAibmFtZSI6ICLruIzrnpzrk5wiCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxDb2RlIjogIjM4Y29tZW9uY29tbW9uIgogICAgICAgIH0sCiAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICJuYW1lIjogIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiCiAgICAgICAgfSwKICAgICAgICAiaXNMb2NrIjogMCwKICAgICAgICAicHJvZHVjdEZlZWRDb3VudCI6IDAsCiAgICAgICAgImNvbmZpcm1TdGF0dXMiOiAyLAogICAgICAgICJkaXNjb3VudEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wNy0yMSAxMzowMDowMCIsCiAgICAgICAgImlzU2hpcHBpbmdGcmVlIjogMCwKICAgICAgICAic2l0ZUNhdGVnb3J5SWRzIjogWwogICAgICAgICAgIjEwMDAiLAogICAgICAgICAgIjEwMDEiLAogICAgICAgICAgIjEwMDUiLAogICAgICAgICAgIjEyNTEiCiAgICAgICAgXSwKICAgICAgICAic2l0ZVByb2R1Y3RUYWdzIjogWwogICAgICAgICAgIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiLAogICAgICAgICAgIuu5hOyYpOuvvOyGjOunpO2LsOyFlOy4oCIsCiAgICAgICAgICAi67CU7Jik66+8IiwKICAgICAgICAgICLti7DshZTsuKAiLAogICAgICAgICAgIuq4sOuzuO2LsOyFlOy4oCIsCiAgICAgICAgICAi7Jes66aEIiwKICAgICAgICAgICJzdW1tZXIiLAogICAgICAgICAgIuuNsOydvOumrCIsCiAgICAgICAgICAi67Kg7J207KeBIiwKICAgICAgICAgICIzOGNvbWVvbmNvbW1vbiIsCiAgICAgICAgICAiMzjsu7TsmKjsu6TrqLwiCiAgICAgICAgXSwKICAgICAgICAicGFyZW50Q2hhbm5lbElkIjogMCwKICAgICAgICAicHJvZHVjdElkIjogOTE5MzMwLAogICAgICAgICJwYXJlbnRTaXRlUHJvZHVjdElkIjogMCwKICAgICAgICAic2FsZVByaWNlIjogMjMwMDAsCiAgICAgICAgImNvbnN1bWVyUHJpY2UiOiAyMzAwMCwKICAgICAgICAiZGlzY291bnRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwIDA1OjAwOjAwIiwKICAgICAgICAiaXNVc2VkIjogMCwKICAgICAgICAic2l0ZVByb2R1Y3RJZCI6IDkyMjYwNiwKICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wNy0xMCAxMjo1Nzo1OCIsCiAgICAgICAgImlzU2FsZSI6IDEsCiAgICAgICAgIm1heGltdW0iOiAxMCwKICAgICAgICAibWluaW11bSI6IDEsCiAgICAgICAgIndpc2hDb3VudCI6IDAsCiAgICAgICAgImlzRGlzY291bnRpbmciOiB0cnVlLAogICAgICAgICJpc015V2lzaFByb2R1Y3QiOiBmYWxzZSwKICAgICAgICAiaXNOZXdBcnJpdmFsIjogZmFsc2UsCiAgICAgICAgImlzU29sZE91dEFsbCI6IGZhbHNlLAogICAgICAgICJzYWxlUHJpY2VSYXRlIjogMjMwMDAsCiAgICAgICAgImxhbmd1YWdlSWQiOiAxLAogICAgICAgICJvcmlnaW5hbFNhbGVQcmljZSI6IDIzMDAwLAogICAgICAgICJpbWFnZXMiOiB7CiAgICAgICAgICAibGlzdEltYWdlIjogImh0dHBzOi8vY2RuLnNlb3Vsc3RvcmUuY29tL2RhdGEvcHJvZHVjdC85MjI2MDYvNzkyZGI4MzA0NGRkNjNlMjRiOWYwNTE3NzM2YTU2YTcuanBnIgogICAgICAgIH0sCiAgICAgICAgInJlc2VydmF0aW9uRGVsaXZlcnlEZXNjIjoge30KICAgICAgfQogICAgXSwKICAgICJjb3Vwb25zIjogewogICAgICAiOTIyNjA2IjogWwogICAgICAgIHsKICAgICAgICAgICJjb3Vwb25JZCI6IDM3MywKICAgICAgICAgICJzaXRlSWQiOiAxLAogICAgICAgICAgImlzc3VlZEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMFQxNTowMDowMC4wMDBaIiwKICAgICAgICAgICJpc3N1ZWRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwVDE0OjU5OjU5LjAwMFoiLAogICAgICAgICAgInZhbGlkQmVnaW5EYXRldGltZSI6ICIyMDE3LTA4LTEwVDE1OjAwOjAwLjAwMFoiLAogICAgICAgICAgInZhbGlkRW5kRGF0ZXRpbWUiOiAiMjAxNy0xMS0zMFQxNDo1OTo1OS4wMDBaIiwKICAgICAgICAgICJjb3Vwb25UeXBlIjogMSwKICAgICAgICAgICJpc0V4Y2x1c2l2ZSI6IDEsCiAgICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMVQwNToyODoxMS4wMDBaIiwKICAgICAgICAgICJpc0RlbGV0ZWQiOiAwLAogICAgICAgICAgImlzc3VlZExpbWl0IjogMCwKICAgICAgICAgICJ1c2VUeXBlIjogMCwKICAgICAgICAgICJwcm9kdWN0UmFuZ2UiOiAxLAogICAgICAgICAgInByb2R1Y3RJc05vdEluIjogMCwKICAgICAgICAgICJjYXRlZ29yeUlzTm90SW4iOiAwLAogICAgICAgICAgImZhdm9yTGltaXRQcmljZSI6ICIwLjAwMDAiLAogICAgICAgICAgImZhdm9yVHlwZSI6IDAsCiAgICAgICAgICAiZmF2b3JDYWxjdWx1cyI6IDEsCiAgICAgICAgICAiZml4ZWRDZXJ0aWZpY2F0ZU5vIjogIiIsCiAgICAgICAgICAidXNlTWVtYmVyR3JvdXAiOiAxLAogICAgICAgICAgInVzZUV4dGVybmFsIjogMCwKICAgICAgICAgICJpc0lzc3VlZCI6IDEsCiAgICAgICAgICAibWVtYmVyTGltaXQiOiA1LAogICAgICAgICAgInNlcmlhbE51bWJlclR5cGUiOiAyNSwKICAgICAgICAgICJpc0hpZGUiOiAwLAogICAgICAgICAgInZhbGlkVHlwZSI6IDAsCiAgICAgICAgICAidmFsaWRFeHBpcmVEYXkiOiAwLAogICAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIuyLnOymjOyYpO2UhCDquLDrhZAgNSUg7ZWg7J247L+g7Y+wIOuwnOq4iSIsCiAgICAgICAgICAgICJuYW1lIjogIjM47Lu07Jio7Luk66i8IOyLnOymjOyYpO2UhCA1JSDtlaDsnbjsv6Dtj7AiCiAgICAgICAgICB9LAogICAgICAgICAgImNvdXBvbkRpc2NvdW50IjogODYzCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgfQp9CgovL3sKLy8gIHNpdGVQcm9kdWN0czogWwovLyAgICB7fSwKLy8gICAge30KLy8gIF0sCi8vICBjb3Vwb25zOiB7Ci8vICAgIDkxOTMzMCA6IFtdLAovLyAgICA5MTkzMzA6IFtdCi8vICB9Ci8vfQo=</text>
+        <text encoding="base64">aW1wb3J0IElhbXBvcnQgZnJvbSAiaWFtcG9ydCI7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiY2hhbm5lbCI6IHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29uc3QgSU1QT1JUID0gewogIGJhc2VVcmw6ICJhcGkuaWFtcG9ydC5rciIsCn07Cgpjb25zdCBvcHRpb25zID0gewogIGhvc3RuYW1lOiBJTVBPUlQuYmFzZVVybCwKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzY291bnRQcmljZSI6IDE3MjUwLAo=</text>
+        <text encoding="base64">ZGRpbXBvcnQgaHR0cHMgZnJvbSAiaHR0cHMiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzY291bnRSYXRlIjogMjUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzaXRlUHJvZHVjdHMiOiBbCiAgICAgIHsK</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
