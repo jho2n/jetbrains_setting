@@ -25,10 +25,11 @@
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
         <mark key="[" line="8" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/service.js" timestamp="1510222781653">
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/service.js" timestamp="1510224343428">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/service.js" timestamp="1510124415017">
         <mark key="[" line="23" column="3" />
@@ -79,8 +80,11 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/index.js" timestamp="1510222873004">
-        <mark key="[" line="4" column="24" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/index.js" timestamp="1510224385693">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/.travis.yml" timestamp="1510035714369">
         <mark key="[" line="29" column="37" />
@@ -161,8 +165,8 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510202909018">
-        <mark key="[" line="66" column="13" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510223589577">
+        <mark key="[" line="70" column="4" />
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
@@ -230,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -264,7 +268,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -273,7 +277,7 @@
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjaGFubmVsR3JvdXBJZCI6IDEsCiAgICAgICAgICAiaW1hZ2VzIjogewogICAgICAgICAgICAicHJvZmlsZUltYWdlIjogIi9kYXRhL3Nlb3Vsc3RvcmUvY2hhbm5lbC9wcm9maWxlL2ltYWdlL2IwY2NiNzc0NDY5Zjg1ZjBjZjQ0YTdmNzJkYTUyZWM0LmpwZyIKICAgICAgICAgIH0sCiAgICAgICAgICAiZGVzY3JpcHRpb25zIjogewogICAgICAgICAgICAiY2hhbm5lbE5hbWUiOiAiMzjsu7TsmKjsu6TrqLwiLAogICAgICAgICAgICAiY2hhbm5lbE5hbWVFbmciOiAiMzhjb21lb25jb21tb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxJZCI6IDk4MSwKICAgICAgICAgICJncm91cCI6IHsKICAgICAgICAgICAgImNoYW5uZWxHcm91cElkIjogMSwKICAgICAgICAgICAgIm5hbWVFbmciOiAiYnJhbmQiLAogICAgICAgICAgICAibmFtZSI6ICLruIzrnpzrk5wiCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxDb2RlIjogIjM4Y29tZW9uY29tbW9uIgogICAgICAgIH0sCiAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICJuYW1lIjogIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiCiAgICAgICAgfSwKICAgICAgICAiaXNMb2NrIjogMCwKICAgICAgICAicHJvZHVjdEZlZWRDb3VudCI6IDAsCiAgICAgICAgImNvbmZpcm1TdGF0dXMiOiAyLAogICAgICAgICJkaXNjb3VudEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wNy0yMSAxMzowMDowMCIsCiAgICAgICAgImlzU2hpcHBpbmdGcmVlIjogMCwKICAgICAgICAic2l0ZUNhdGVnb3J5SWRzIjogWwogICAgICAgICAgIjEwMDAiLAogICAgICAgICAgIjEwMDEiLAogICAgICAgICAgIjEwMDUiLAogICAgICAgICAgIjEyNTEiCiAgICAgICAgXSwKICAgICAgICAic2l0ZVByb2R1Y3RUYWdzIjogWwogICAgICAgICAgIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiLAogICAgICAgICAgIuu5hOyYpOuvvOyGjOunpO2LsOyFlOy4oCIsCiAgICAgICAgICAi67CU7Jik66+8IiwKICAgICAgICAgICLti7DshZTsuKAiLAogICAgICAgICAgIuq4sOuzuO2LsOyFlOy4oCIsCiAgICAgICAgICAi7Jes66aEIiwKICAgICAgICAgICJzdW1tZXIiLAogICAgICAgICAgIuuNsOydvOumrCIsCiAgICAgICAgICAi67Kg7J207KeBIiwKICAgICAgICAgICIzOGNvbWVvbmNvbW1vbiIsCiAgICAgICAgICAiMzjsu7TsmKjsu6TrqLwiCiAgICAgICAgXSwKICAgICAgICAicGFyZW50Q2hhbm5lbElkIjogMCwKICAgICAgICAicHJvZHVjdElkIjogOTE5MzMwLAogICAgICAgICJwYXJlbnRTaXRlUHJvZHVjdElkIjogMCwKICAgICAgICAic2FsZVByaWNlIjogMjMwMDAsCiAgICAgICAgImNvbnN1bWVyUHJpY2UiOiAyMzAwMCwKICAgICAgICAiZGlzY291bnRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwIDA1OjAwOjAwIiwKICAgICAgICAiaXNVc2VkIjogMCwKICAgICAgICAic2l0ZVByb2R1Y3RJZCI6IDkyMjYwNiwKICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wNy0xMCAxMjo1Nzo1OCIsCiAgICAgICAgImlzU2FsZSI6IDEsCiAgICAgICAgIm1heGltdW0iOiAxMCwKICAgICAgICAibWluaW11bSI6IDEsCiAgICAgICAgIndpc2hDb3VudCI6IDAsCiAgICAgICAgImlzRGlzY291bnRpbmciOiB0cnVlLAogICAgICAgICJpc015V2lzaFByb2R1Y3QiOiBmYWxzZSwKICAgICAgICAiaXNOZXdBcnJpdmFsIjogZmFsc2UsCiAgICAgICAgImlzU29sZE91dEFsbCI6IGZhbHNlLAogICAgICAgICJzYWxlUHJpY2VSYXRlIjogMjMwMDAsCiAgICAgICAgImxhbmd1YWdlSWQiOiAxLAogICAgICAgICJvcmlnaW5hbFNhbGVQcmljZSI6IDIzMDAwLAogICAgICAgICJpbWFnZXMiOiB7CiAgICAgICAgICAibGlzdEltYWdlIjogImh0dHBzOi8vY2RuLnNlb3Vsc3RvcmUuY29tL2RhdGEvcHJvZHVjdC85MjI2MDYvNzkyZGI4MzA0NGRkNjNlMjRiOWYwNTE3NzM2YTU2YTcuanBnIgogICAgICAgIH0sCiAgICAgICAgInJlc2VydmF0aW9uRGVsaXZlcnlEZXNjIjoge30KICAgICAgfQogICAgXSwKICAgICJjb3Vwb25zIjogewogICAgICAiOTIyNjA2IjogWwogICAgICAgIHsKICAgICAgICAgICJjb3Vwb25JZCI6IDM3MywKICAgICAgICAgICJzaXRlSWQiOiAxLAogICAgICAgICAgImlzc3VlZEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMFQxNTowMDowMC4wMDBaIiwKICAgICAgICAgICJpc3N1ZWRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwVDE0OjU5OjU5LjAwMFoiLAogICAgICAgICAgInZhbGlkQmVnaW5EYXRldGltZSI6ICIyMDE3LTA4LTEwVDE1OjAwOjAwLjAwMFoiLAogICAgICAgICAgInZhbGlkRW5kRGF0ZXRpbWUiOiAiMjAxNy0xMS0zMFQxNDo1OTo1OS4wMDBaIiwKICAgICAgICAgICJjb3Vwb25UeXBlIjogMSwKICAgICAgICAgICJpc0V4Y2x1c2l2ZSI6IDEsCiAgICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMVQwNToyODoxMS4wMDBaIiwKICAgICAgICAgICJpc0RlbGV0ZWQiOiAwLAogICAgICAgICAgImlzc3VlZExpbWl0IjogMCwKICAgICAgICAgICJ1c2VUeXBlIjogMCwKICAgICAgICAgICJwcm9kdWN0UmFuZ2UiOiAxLAogICAgICAgICAgInByb2R1Y3RJc05vdEluIjogMCwKICAgICAgICAgICJjYXRlZ29yeUlzTm90SW4iOiAwLAogICAgICAgICAgImZhdm9yTGltaXRQcmljZSI6ICIwLjAwMDAiLAogICAgICAgICAgImZhdm9yVHlwZSI6IDAsCiAgICAgICAgICAiZmF2b3JDYWxjdWx1cyI6IDEsCiAgICAgICAgICAiZml4ZWRDZXJ0aWZpY2F0ZU5vIjogIiIsCiAgICAgICAgICAidXNlTWVtYmVyR3JvdXAiOiAxLAogICAgICAgICAgInVzZUV4dGVybmFsIjogMCwKICAgICAgICAgICJpc0lzc3VlZCI6IDEsCiAgICAgICAgICAibWVtYmVyTGltaXQiOiA1LAogICAgICAgICAgInNlcmlhbE51bWJlclR5cGUiOiAyNSwKICAgICAgICAgICJpc0hpZGUiOiAwLAogICAgICAgICAgInZhbGlkVHlwZSI6IDAsCiAgICAgICAgICAidmFsaWRFeHBpcmVEYXkiOiAwLAogICAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIuyLnOymjOyYpO2UhCDquLDrhZAgNSUg7ZWg7J247L+g7Y+wIOuwnOq4iSIsCiAgICAgICAgICAgICJuYW1lIjogIjM47Lu07Jio7Luk66i8IOyLnOymjOyYpO2UhCA1JSDtlaDsnbjsv6Dtj7AiCiAgICAgICAgICB9LAogICAgICAgICAgImNvdXBvbkRpc2NvdW50IjogODYzCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgfQp9CgovL3sKLy8gIHNpdGVQcm9kdWN0czogWwovLyAgICB7fSwKLy8gICAge30KLy8gIF0sCi8vICBjb3Vwb25zOiB7Ci8vICAgIDkxOTMzMCA6IFtdLAovLyAgICA5MTkzMzA6IFtdCi8vICB9Ci8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -309,201 +313,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiY2hhbm5lbCI6IHsK</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzY291bnRQcmljZSI6IDE3MjUwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJjaGFubmVsR3JvdXBJZCI6IDEsCiAgICAgICAgICAiaW1hZ2VzIjogewogICAgICAgICAgICAicHJvZmlsZUltYWdlIjogIi9kYXRhL3Nlb3Vsc3RvcmUvY2hhbm5lbC9wcm9maWxlL2ltYWdlL2IwY2NiNzc0NDY5Zjg1ZjBjZjQ0YTdmNzJkYTUyZWM0LmpwZyIKICAgICAgICAgIH0sCiAgICAgICAgICAiZGVzY3JpcHRpb25zIjogewogICAgICAgICAgICAiY2hhbm5lbE5hbWUiOiAiMzjsu7TsmKjsu6TrqLwiLAogICAgICAgICAgICAiY2hhbm5lbE5hbWVFbmciOiAiMzhjb21lb25jb21tb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxJZCI6IDk4MSwKICAgICAgICAgICJncm91cCI6IHsKICAgICAgICAgICAgImNoYW5uZWxHcm91cElkIjogMSwKICAgICAgICAgICAgIm5hbWVFbmciOiAiYnJhbmQiLAogICAgICAgICAgICAibmFtZSI6ICLruIzrnpzrk5wiCiAgICAgICAgICB9LAogICAgICAgICAgImNoYW5uZWxDb2RlIjogIjM4Y29tZW9uY29tbW9uIgogICAgICAgIH0sCiAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICJuYW1lIjogIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiCiAgICAgICAgfSwKICAgICAgICAiaXNMb2NrIjogMCwKICAgICAgICAicHJvZHVjdEZlZWRDb3VudCI6IDAsCiAgICAgICAgImNvbmZpcm1TdGF0dXMiOiAyLAogICAgICAgICJkaXNjb3VudEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wNy0yMSAxMzowMDowMCIsCiAgICAgICAgImlzU2hpcHBpbmdGcmVlIjogMCwKICAgICAgICAic2l0ZUNhdGVnb3J5SWRzIjogWwogICAgICAgICAgIjEwMDAiLAogICAgICAgICAgIjEwMDEiLAogICAgICAgICAgIjEwMDUiLAogICAgICAgICAgIjEyNTEiCiAgICAgICAgXSwKICAgICAgICAic2l0ZVByb2R1Y3RUYWdzIjogWwogICAgICAgICAgIkJJTyBTTEVFVkVMRVNTIFQtU0hJUlQiLAogICAgICAgICAgIuu5hOyYpOuvvOyGjOunpO2LsOyFlOy4oCIsCiAgICAgICAgICAi67CU7Jik66+8IiwKICAgICAgICAgICLti7DshZTsuKAiLAogICAgICAgICAgIuq4sOuzuO2LsOyFlOy4oCIsCiAgICAgICAgICAi7Jes66aEIiwKICAgICAgICAgICJzdW1tZXIiLAogICAgICAgICAgIuuNsOydvOumrCIsCiAgICAgICAgICAi67Kg7J207KeBIiwKICAgICAgICAgICIzOGNvbWVvbmNvbW1vbiIsCiAgICAgICAgICAiMzjsu7TsmKjsu6TrqLwiCiAgICAgICAgXSwKICAgICAgICAicGFyZW50Q2hhbm5lbElkIjogMCwKICAgICAgICAicHJvZHVjdElkIjogOTE5MzMwLAogICAgICAgICJwYXJlbnRTaXRlUHJvZHVjdElkIjogMCwKICAgICAgICAic2FsZVByaWNlIjogMjMwMDAsCiAgICAgICAgImNvbnN1bWVyUHJpY2UiOiAyMzAwMCwKICAgICAgICAiZGlzY291bnRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwIDA1OjAwOjAwIiwKICAgICAgICAiaXNVc2VkIjogMCwKICAgICAgICAic2l0ZVByb2R1Y3RJZCI6IDkyMjYwNiwKICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wNy0xMCAxMjo1Nzo1OCIsCiAgICAgICAgImlzU2FsZSI6IDEsCiAgICAgICAgIm1heGltdW0iOiAxMCwKICAgICAgICAibWluaW11bSI6IDEsCiAgICAgICAgIndpc2hDb3VudCI6IDAsCiAgICAgICAgImlzRGlzY291bnRpbmciOiB0cnVlLAogICAgICAgICJpc015V2lzaFByb2R1Y3QiOiBmYWxzZSwKICAgICAgICAiaXNOZXdBcnJpdmFsIjogZmFsc2UsCiAgICAgICAgImlzU29sZE91dEFsbCI6IGZhbHNlLAogICAgICAgICJzYWxlUHJpY2VSYXRlIjogMjMwMDAsCiAgICAgICAgImxhbmd1YWdlSWQiOiAxLAogICAgICAgICJvcmlnaW5hbFNhbGVQcmljZSI6IDIzMDAwLAogICAgICAgICJpbWFnZXMiOiB7CiAgICAgICAgICAibGlzdEltYWdlIjogImh0dHBzOi8vY2RuLnNlb3Vsc3RvcmUuY29tL2RhdGEvcHJvZHVjdC85MjI2MDYvNzkyZGI4MzA0NGRkNjNlMjRiOWYwNTE3NzM2YTU2YTcuanBnIgogICAgICAgIH0sCiAgICAgICAgInJlc2VydmF0aW9uRGVsaXZlcnlEZXNjIjoge30KICAgICAgfQogICAgXSwKICAgICJjb3Vwb25zIjogewogICAgICAiOTIyNjA2IjogWwogICAgICAgIHsKICAgICAgICAgICJjb3Vwb25JZCI6IDM3MywKICAgICAgICAgICJzaXRlSWQiOiAxLAogICAgICAgICAgImlzc3VlZEJlZ2luRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMFQxNTowMDowMC4wMDBaIiwKICAgICAgICAgICJpc3N1ZWRFbmREYXRldGltZSI6ICIyMDE3LTExLTMwVDE0OjU5OjU5LjAwMFoiLAogICAgICAgICAgInZhbGlkQmVnaW5EYXRldGltZSI6ICIyMDE3LTA4LTEwVDE1OjAwOjAwLjAwMFoiLAogICAgICAgICAgInZhbGlkRW5kRGF0ZXRpbWUiOiAiMjAxNy0xMS0zMFQxNDo1OTo1OS4wMDBaIiwKICAgICAgICAgICJjb3Vwb25UeXBlIjogMSwKICAgICAgICAgICJpc0V4Y2x1c2l2ZSI6IDEsCiAgICAgICAgICAicmVnRGF0ZXRpbWUiOiAiMjAxNy0wOC0xMVQwNToyODoxMS4wMDBaIiwKICAgICAgICAgICJpc0RlbGV0ZWQiOiAwLAogICAgICAgICAgImlzc3VlZExpbWl0IjogMCwKICAgICAgICAgICJ1c2VUeXBlIjogMCwKICAgICAgICAgICJwcm9kdWN0UmFuZ2UiOiAxLAogICAgICAgICAgInByb2R1Y3RJc05vdEluIjogMCwKICAgICAgICAgICJjYXRlZ29yeUlzTm90SW4iOiAwLAogICAgICAgICAgImZhdm9yTGltaXRQcmljZSI6ICIwLjAwMDAiLAogICAgICAgICAgImZhdm9yVHlwZSI6IDAsCiAgICAgICAgICAiZmF2b3JDYWxjdWx1cyI6IDEsCiAgICAgICAgICAiZml4ZWRDZXJ0aWZpY2F0ZU5vIjogIiIsCiAgICAgICAgICAidXNlTWVtYmVyR3JvdXAiOiAxLAogICAgICAgICAgInVzZUV4dGVybmFsIjogMCwKICAgICAgICAgICJpc0lzc3VlZCI6IDEsCiAgICAgICAgICAibWVtYmVyTGltaXQiOiA1LAogICAgICAgICAgInNlcmlhbE51bWJlclR5cGUiOiAyNSwKICAgICAgICAgICJpc0hpZGUiOiAwLAogICAgICAgICAgInZhbGlkVHlwZSI6IDAsCiAgICAgICAgICAidmFsaWRFeHBpcmVEYXkiOiAwLAogICAgICAgICAgImRlc2NyaXB0aW9ucyI6IHsKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIuyLnOymjOyYpO2UhCDquLDrhZAgNSUg7ZWg7J247L+g7Y+wIOuwnOq4iSIsCiAgICAgICAgICAgICJuYW1lIjogIjM47Lu07Jio7Luk66i8IOyLnOymjOyYpO2UhCA1JSDtlaDsnbjsv6Dtj7AiCiAgICAgICAgICB9LAogICAgICAgICAgImNvdXBvbkRpc2NvdW50IjogODYzCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgfQp9CgovL3sKLy8gIHNpdGVQcm9kdWN0czogWwovLyAgICB7fSwKLy8gICAge30KLy8gIF0sCi8vICBjb3Vwb25zOiB7Ci8vICAgIDkxOTMzMCA6IFtdLAovLyAgICA5MTkzMzA6IFtdCi8vICB9Ci8vfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzY291bnRSYXRlIjogMjUsCg==</text>
+        <text encoding="base64">ICAgICAgICAiY2hhbm5lbCI6IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzaXRlUHJvZHVjdHMiOiBbCiAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAiZGlzY291bnRQcmljZSI6IDE3MjUwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAic3RhdHVzIjogInN1Y2Nlc3MiLAogICJkYXRhIjogewo=</text>
+        <text encoding="base64">ICAgICAgICAiZGlzY291bnRSYXRlIjogMjUsCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICJzaXRlUHJvZHVjdHMiOiBbCiAgICAgIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAic3RhdHVzIjogInN1Y2Nlc3MiLAogICJkYXRhIjogewo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        &quot;discountRate&quot;: 25,
-        &quot;discountPrice&quot;: 69000,
-        &quot;channel&quot;: {
-          &quot;channelGroupId&quot;: 1,
-          &quot;images&quot;: {
-            &quot;profileImage&quot;: &quot;/data/seoulstore/channel/profile/image/b0ccb774469f85f0cf44a7f72da52ec4.jpg&quot;
-          },
-          &quot;descriptions&quot;: {
-            &quot;channelName&quot;: &quot;38컴온커먼&quot;,
-            &quot;channelNameEng&quot;: &quot;38comeoncommon&quot;
-          },
-          &quot;channelId&quot;: 981,
-          &quot;group&quot;: {
-            &quot;channelGroupId&quot;: 1,
-            &quot;nameEng&quot;: &quot;brand&quot;,
-            &quot;name&quot;: &quot;브랜드&quot;
-          },
-          &quot;channelCode&quot;: &quot;38comeoncommon&quot;
-        },
-        &quot;descriptions&quot;: {
-          &quot;name&quot;: &quot;MER SLACKS (BLACK)&quot;
-        },
-        &quot;isLock&quot;: 0,
-        &quot;productFeedCount&quot;: 0,
-        &quot;confirmStatus&quot;: 2,
-        &quot;discountBeginDatetime&quot;: &quot;2017-07-21 13:00:00&quot;,
-        &quot;isShippingFree&quot;: 0,
-        &quot;siteCategoryIds&quot;: [
-          &quot;1000&quot;,
-          &quot;1027&quot;,
-          &quot;1031&quot;,
-          &quot;1253&quot;
-        ],
-        &quot;siteProductTags&quot;: [
-          &quot;MER SLACKS&quot;,
-          &quot;메르 슬랙스&quot;,
-          &quot;메르&quot;,
-          &quot;슬랙스&quot;,
-          &quot;여름&quot;,
-          &quot;summer&quot;,
-          &quot;데일리&quot;,
-          &quot;베이직&quot;,
-          &quot;38comeoncommon&quot;,
-          &quot;38컴온커먼&quot;
-        ],
-        &quot;parentChannelId&quot;: 0,
-        &quot;productId&quot;: 919331,
-        &quot;parentSiteProductId&quot;: 0,
-        &quot;salePrice&quot;: 92000,
-        &quot;consumerPrice&quot;: 92000,
-        &quot;discountEndDatetime&quot;: &quot;2017-11-30 05:00:00&quot;,
-        &quot;isUsed&quot;: 0,
-        &quot;siteProductId&quot;: 922607,
-        &quot;regDatetime&quot;: &quot;2017-07-10 13:06:59&quot;,
-        &quot;isSale&quot;: 1,
-        &quot;maximum&quot;: 10,
-        &quot;minimum&quot;: 1,
-        &quot;wishCount&quot;: 2,
-        &quot;isDiscounting&quot;: true,
-        &quot;isMyWishProduct&quot;: false,
-        &quot;isNewArrival&quot;: false,
-        &quot;isSoldOutAll&quot;: false,
-        &quot;salePriceRate&quot;: 92000,
-        &quot;languageId&quot;: 1,
-        &quot;originalSalePrice&quot;: 92000,
-        &quot;images&quot;: {
-          &quot;listImage&quot;: &quot;https://cdn.seoulstore.com/data/product/922607/77d2f007f6c24427037a6a35c42468dd.jpg&quot;
-        },
-        &quot;reservationDeliveryDesc&quot;: {}
-      }</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-          &quot;couponId&quot;: 362,
-          &quot;siteId&quot;: 1,
-          &quot;issuedBeginDatetime&quot;: &quot;2017-10-23T15:00:00.000Z&quot;,
-          &quot;issuedEndDatetime&quot;: &quot;2018-02-28T14:59:59.000Z&quot;,
-          &quot;validBeginDatetime&quot;: &quot;2017-10-23T15:00:00.000Z&quot;,
-          &quot;validEndDatetime&quot;: &quot;2018-02-28T14:59:59.000Z&quot;,
-          &quot;couponType&quot;: 1,
-          &quot;isExclusive&quot;: 1,
-          &quot;regDatetime&quot;: &quot;2017-07-21T09:06:00.000Z&quot;,
-          &quot;isDeleted&quot;: 0,
-          &quot;issuedLimit&quot;: 0,
-          &quot;useType&quot;: 0,
-          &quot;productRange&quot;: 1,
-          &quot;productIsNotIn&quot;: 0,
-          &quot;categoryIsNotIn&quot;: 0,
-          &quot;favorLimitPrice&quot;: &quot;0.0000&quot;,
-          &quot;favorType&quot;: 0,
-          &quot;favorCalculus&quot;: 1,
-          &quot;fixedCertificateNo&quot;: &quot;&quot;,
-          &quot;useMemberGroup&quot;: 0,
-          &quot;useExternal&quot;: 0,
-          &quot;isIssued&quot;: 1,
-          &quot;memberLimit&quot;: 0,
-          &quot;serialNumberType&quot;: 25,
-          &quot;isHide&quot;: 0,
-          &quot;validType&quot;: 0,
-          &quot;validExpireDay&quot;: 0,
-          &quot;descriptions&quot;: {
-            &quot;description&quot;: &quot;38컴온커먼 신규입점 기념 5% 할인쿠폰 발급&quot;,
-            &quot;name&quot;: &quot;38컴온커먼 입점기념 5% 할인쿠폰&quot;
-          },
-          &quot;couponDiscount&quot;: 863
-        }
-      ],
-      &quot;922607&quot;: [
-        {
-          &quot;couponId&quot;: 373,
-          &quot;siteId&quot;: 1,
-          &quot;issuedBeginDatetime&quot;: &quot;2017-08-10T15:00:00.000Z&quot;,
-          &quot;issuedEndDatetime&quot;: &quot;2017-11-30T14:59:59.000Z&quot;,
-          &quot;validBeginDatetime&quot;: &quot;2017-08-10T15:00:00.000Z&quot;,
-          &quot;validEndDatetime&quot;: &quot;2017-11-30T14:59:59.000Z&quot;,
-          &quot;couponType&quot;: 1,
-          &quot;isExclusive&quot;: 1,
-          &quot;regDatetime&quot;: &quot;2017-08-11T05:28:11.000Z&quot;,
-          &quot;isDeleted&quot;: 0,
-          &quot;issuedLimit&quot;: 0,
-          &quot;useType&quot;: 0,
-          &quot;productRange&quot;: 1,
-          &quot;productIsNotIn&quot;: 0,
-          &quot;categoryIsNotIn&quot;: 0,
-          &quot;favorLimitPrice&quot;: &quot;0.0000&quot;,
-          &quot;favorType&quot;: 0,
-          &quot;favorCalculus&quot;: 1,
-          &quot;fixedCertificateNo&quot;: &quot;&quot;,
-          &quot;useMemberGroup&quot;: 1,
-          &quot;useExternal&quot;: 0,
-          &quot;isIssued&quot;: 1,
-          &quot;memberLimit&quot;: 5,
-          &quot;serialNumberType&quot;: 25,
-          &quot;isHide&quot;: 0,
-          &quot;validType&quot;: 0,
-          &quot;validExpireDay&quot;: 0,
-          &quot;descriptions&quot;: {
-            &quot;description&quot;: &quot;시즌오프 기념 5% 할인쿠폰 발급&quot;,
-            &quot;name&quot;: &quot;38컴온커먼 시즌오프 5% 할인쿠폰&quot;
-          },
-          &quot;couponDiscount&quot;: 3450
-        },
-        {
-          &quot;couponId&quot;: 362,
-          &quot;siteId&quot;: 1,
-          &quot;issuedBeginDatetime&quot;: &quot;2017-10-23T15:00:00.000Z&quot;,
-          &quot;issuedEndDatetime&quot;: &quot;2018-02-28T14:59:59.000Z&quot;,
-          &quot;validBeginDatetime&quot;: &quot;2017-10-23T15:00:00.000Z&quot;,
-          &quot;validEndDatetime&quot;: &quot;2018-02-28T14:59:59.000Z&quot;,
-          &quot;couponType&quot;: 1,
-          &quot;isExclusive&quot;: 1,
-          &quot;regDatetime&quot;: &quot;2017-07-21T09:06:00.000Z&quot;,
-          &quot;isDeleted&quot;: 0,
-          &quot;issuedLimit&quot;: 0,
-          &quot;useType&quot;: 0,
-          &quot;productRange&quot;: 1,
-          &quot;productIsNotIn&quot;: 0,
-          &quot;categoryIsNotIn&quot;: 0,
-          &quot;favorLimitPrice&quot;: &quot;0.0000&quot;,
-          &quot;favorType&quot;: 0,
-          &quot;favorCalculus&quot;: 1,
-          &quot;fixedCertificateNo&quot;: &quot;&quot;,
-          &quot;useMemberGroup&quot;: 0,
-          &quot;useExternal&quot;: 0,
-          &quot;isIssued&quot;: 1,
-          &quot;memberLimit&quot;: 0,
-          &quot;serialNumberType&quot;: 25,
-          &quot;isHide&quot;: 0,
-          &quot;validType&quot;: 0,
-          &quot;validExpireDay&quot;: 0,
-          &quot;descriptions&quot;: {
-            &quot;description&quot;: &quot;38컴온커먼 신규입점 기념 5% 할인쿠폰 발급&quot;,
-            &quot;name&quot;: &quot;38컴온커먼 입점기념 5% 할인쿠폰&quot;
-          },
-          &quot;couponDiscount&quot;: 3450
-        }</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
