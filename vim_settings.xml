@@ -105,12 +105,7 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510022500245">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="62" column="38" />
-        <mark key="." line="53" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510306408670" />
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
       </file>
@@ -146,23 +141,11 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/service.js" timestamp="1510224902843">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/s-api/app/routes.js" timestamp="1510032305573">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510293608728">
-        <mark key="'" line="3" column="32" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510291515229">
         <mark key="[" line="195" column="8" />
@@ -228,10 +211,11 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/package.json" timestamp="1510293122971">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/index.js" timestamp="1510306122476">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/helpers.js" timestamp="1510141948150">
         <mark key="[" line="63" column="0" />
@@ -272,7 +256,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import { transaction } from 'models';</text>
+        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -314,8 +298,8 @@
       <register name="0" type="4">
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,7 +335,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,21 +344,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5qc29uKHIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc3RhdHVzKDIwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5qc29uKHIpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const r = {
-        
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXMuc3RhdHVzKDIwMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRyb2xsZXIgZnJvbSAnLi9jb250cm9sbGVyJzsK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
