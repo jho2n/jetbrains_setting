@@ -21,7 +21,7 @@
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/index.js" timestamp="1510302087475">
+      <file name="$USER_HOME$/Projects/s-api/app/index.js" timestamp="1510304237683">
         <mark key="[" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/channel/controller.js" timestamp="1510298345581">
@@ -65,6 +65,12 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/address/service.js" timestamp="1510304824353">
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/node_modules/eslint-config-airbnb-base/rules/best-practices.js" timestamp="1510290532689" />
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510151462346">
         <mark key="[" line="162" column="24" />
@@ -92,12 +98,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510297630571" />
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510301006130">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510304672668">
         <mark key="'" line="28" column="19" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510022500245">
         <mark key="[" line="53" column="0" />
@@ -265,8 +271,8 @@
       <jump line="24" column="19" filename="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>import { transaction } from 'models';</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -300,7 +306,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>import { transaction } from 'models';</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
