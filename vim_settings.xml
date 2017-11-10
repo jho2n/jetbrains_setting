@@ -105,7 +105,12 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510306408670" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510307866131">
+        <mark key="[" line="262" column="22" />
+        <mark key="]" line="262" column="37" />
+        <mark key="^" line="262" column="37" />
+        <mark key="." line="262" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
       </file>
@@ -256,7 +261,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
+        <text>let</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -290,7 +295,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>import { transaction } from 'models';</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
