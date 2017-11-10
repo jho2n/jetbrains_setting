@@ -94,11 +94,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510297630571" />
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510296638752">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510301006130">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510022500245">
         <mark key="[" line="53" column="0" />
@@ -188,7 +189,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510292704042">
+      <file name="/Dummy.txt" timestamp="1510299778521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
