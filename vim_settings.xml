@@ -23,6 +23,11 @@
       <file name="$USER_HOME$/Projects/s-api/app/app.js" timestamp="1510140601522">
         <mark key="[" line="23" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/.eslintrc" timestamp="1510287673724">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
         <mark key="[" line="8" column="70" />
       </file>
@@ -43,11 +48,11 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510229818851">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" timestamp="1510287353675">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510157544736">
         <mark key="[" line="189" column="18" />
@@ -243,7 +248,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getBillingKey</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -277,7 +282,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getBillingKey</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
