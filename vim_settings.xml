@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/siteProduct.js" timestamp="1510539976672">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/siteProduct.js" timestamp="1510548242571">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/issue/service.js" timestamp="1510054073753">
         <mark key="[" line="25" column="2" />
@@ -117,11 +118,11 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510539787900">
-        <mark key="[" line="296" column="5" />
-        <mark key="]" line="295" column="10" />
-        <mark key="^" line="295" column="10" />
-        <mark key="." line="295" column="10" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510548371632">
+        <mark key="[" line="294" column="14" />
+        <mark key="]" line="295" column="34" />
+        <mark key="^" line="295" column="34" />
+        <mark key="." line="295" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
@@ -277,8 +278,8 @@
       <jump line="24" column="19" filename="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -312,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
