@@ -115,11 +115,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510559341043">
-        <mark key="[" line="294" column="41" />
-        <mark key="]" line="305" column="35" />
-        <mark key="^" line="294" column="31" />
-        <mark key="." line="305" column="35" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510560556752">
+        <mark key="[" line="293" column="41" />
+        <mark key="]" line="294" column="54" />
+        <mark key="^" line="294" column="54" />
+        <mark key="." line="294" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
@@ -189,10 +189,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1510549567616">
-        <mark key="[" line="158" column="109" />
-        <mark key="]" line="455" column="11" />
-        <mark key="^" line="455" column="11" />
-        <mark key="." line="455" column="11" />
+        <mark key="[" line="157" column="109" />
+        <mark key="]" line="454" column="11" />
+        <mark key="^" line="454" column="11" />
+        <mark key="." line="454" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510142163984">
         <mark key="[" line="48" column="18" />
