@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/siteProduct.js" timestamp="1510028897805">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/siteProduct.js" timestamp="1510539976672">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/issue/service.js" timestamp="1510054073753">
         <mark key="[" line="25" column="2" />
@@ -31,6 +31,16 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/index.js" timestamp="1510539919198">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/index.js" timestamp="1510539945297">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1510151722229">
         <mark key="[" line="0" column="0" />
@@ -107,11 +117,11 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510538209700">
-        <mark key="[" line="273" column="80" />
-        <mark key="]" line="276" column="87" />
-        <mark key="." line="276" column="87" />
-        <mark key="^" line="276" column="87" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510539787900">
+        <mark key="[" line="296" column="5" />
+        <mark key="]" line="295" column="10" />
+        <mark key="^" line="295" column="10" />
+        <mark key="." line="295" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
@@ -142,6 +152,7 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/service.js" timestamp="1510538990808" />
       <file name="$USER_HOME$/Projects/s-api/.eslintrc" timestamp="1510303082968">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="31" column="24" />
@@ -174,7 +185,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1510537704994">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1510539078968">
         <mark key="[" line="159" column="10" />
         <mark key="]" line="455" column="11" />
         <mark key="^" line="455" column="11" />
@@ -206,6 +217,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/s-api/app/models/associations/product.js" timestamp="1510539860439">
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/coupon/controller.js" timestamp="1510053274481">
         <mark key="[" line="20" column="3" />
@@ -263,8 +277,8 @@
       <jump line="24" column="19" filename="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>q</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -298,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -307,7 +321,7 @@
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgIm15c3FsOi8vc2VvdWxzdG9yZTpzZW91bHN0b3JlQGRhdGFiYXNlOjMzMDYvc3NzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,19 +357,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVyaTogcHJvY2Vzcy5lbnYuU0VRVUVMSVpFX1VSSSB8fCAnJywK</text>
+        <text encoding="base64">ICAvL2RiLlNpdGVQcm9kdWN0T3B0aW9uCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgIm15c3FsOi8vc2VvdWxzdG9yZTpzZW91bHN0b3JlQGRhdGFiYXNlOjMzMDYvc3NzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHVyaTogcHJvY2Vzcy5lbnYuU0VRVUVMSVpFX1VSSSB8fCAnJywK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,7 +378,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5qc29uKHIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
