@@ -8,7 +8,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/has-many.js" timestamp="1510227660012" />
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/issue/service.js" timestamp="1510054073753">
         <mark key="[" line="25" column="2" />
       </file>
@@ -71,8 +70,7 @@
         <mark key="." line="46" column="18" />
         <mark key="^" line="46" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/node_modules/eslint-config-airbnb-base/rules/best-practices.js" timestamp="1510290532689" />
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510151462346">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510538037177">
         <mark key="[" line="162" column="24" />
         <mark key="]" line="137" column="40" />
         <mark key="^" line="137" column="40" />
@@ -86,18 +84,22 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/.babelrc" timestamp="1510293309326" />
-      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510299206986">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510536734910">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508724364614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510297630571" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/local.env.js" timestamp="1510536890861">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510304672668">
         <mark key="'" line="28" column="19" />
         <mark key="[" line="15" column="36" />
@@ -105,11 +107,11 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510307866131">
-        <mark key="[" line="263" column="22" />
-        <mark key="]" line="263" column="37" />
-        <mark key="^" line="263" column="37" />
-        <mark key="." line="263" column="37" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510538209700">
+        <mark key="[" line="273" column="80" />
+        <mark key="]" line="276" column="87" />
+        <mark key="." line="276" column="87" />
+        <mark key="^" line="276" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
@@ -161,20 +163,22 @@
       <file name="$USER_HOME$/Projects/s-api/docker/prod.docker-compose.yml" timestamp="1510297350535">
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/environment/production.js" timestamp="1510299185323">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/environment/production.js" timestamp="1510536799735">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/index.js" timestamp="1510294922885">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1510063761925">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/service.js" timestamp="1510537704994">
+        <mark key="[" line="159" column="10" />
+        <mark key="]" line="455" column="11" />
+        <mark key="^" line="455" column="11" />
+        <mark key="." line="455" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510142163984">
         <mark key="[" line="48" column="18" />
@@ -187,7 +191,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510303896096">
+      <file name="/Dummy.txt" timestamp="1510536813444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/index.js" timestamp="1510038097728">
@@ -203,7 +207,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/product.js" timestamp="1510196210301" />
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/coupon/controller.js" timestamp="1510053274481">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="8" />
@@ -216,11 +219,11 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/index.js" timestamp="1510306122476">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/index.js" timestamp="1510537476333">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
         <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/helpers.js" timestamp="1510141948150">
         <mark key="[" line="63" column="0" />
@@ -261,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>q</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -295,7 +298,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -303,8 +306,8 @@
       <register name="0" type="4">
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgIm15c3FsOi8vc2VvdWxzdG9yZTpzZW91bHN0b3JlQGRhdGFiYXNlOjMzMDYvc3NzIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,13 +343,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHVyaTogcHJvY2Vzcy5lbnYuU0VRVUVMSVpFX1VSSSB8fCAnJywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAvLwogICAgLy8gJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAiY291bnRyeV9jb2RlID0gJ3skbWVtYmVyWydjb3VudHJ5J119JyIsCiAgICAvLyAgInBhcmVudF96b25lX2lkID0gMCIKICAgIC8vICkpOwogICAgLy8KICAgIC8vIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgLy8g7LWc7LSIIOyjvOusuOydvCDqsr3smrAg7ZWc6rWtIOyjvOusuOycvOuhnCDstpTqsIDtlZjsl6wg7KSN64uI64ukLgogICAgLy8gIGlmIChpc3NldCgkbWVtYmVyWydjb3VudHJ5J10pICYmICRtZW1iZXJbJ2NvdW50cnknXSAhPSAnJykgewogICAgLy8gICAgJHpvbmUgPSBNb2R1bGVzOjpsb2FkKCdrZl96b25lL2tmX3pvbmUnKS0+Z2V0X3Jvd190eXBlMihhcnJheSgnem9uZV9pZCcpLCBhcnJheSgKICAgIC8vICAgICAgImNvdW50cnlfY29kZSA9ICd7JG1lbWJlclsnY291bnRyeSddfSciLAogICAgLy8gICAgICAicGFyZW50X3pvbmVfaWQgPSAwIgogICAgLy8gICAgKSk7CiAgICAvLwogICAgLy8gICAgaWYgKGlzc2V0KCR6b25lWyd6b25lX2lkJ10pKSB7CiAgICAvLyAgICAgICRzZWxlY3RlZF96b25lX2lkID0gJHpvbmVbJ3pvbmVfaWQnXTsKICAgIC8vICAgIH0KICAgIC8vICB9CiAgICAvLwogICAgLy8gIGlmICgkc2VsZWN0ZWRfem9uZV9pZCA9PSAwKSB7CiAgICAvLyAgICAkc2VsZWN0ZWRfem9uZV9pZCA9IDM1MTQ7CiAgICAvLyAgfQogICAgLy8gfQoKICAgIC8vIGNvbnNvbGUubG9nKG1lbWJlckVudHJ5Q29uZmlncyk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -355,16 +358,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5qc29uKHIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc3RhdHVzKDIwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5qc29uKHIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -372,7 +375,7 @@
       <last-offset />
       <last-pattern>memberGroupId</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -391,10 +394,10 @@
         <entry>source ~/.vimrc</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
