@@ -21,65 +21,14 @@
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
         <mark key="[" line="8" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/service.js" timestamp="1510124415017">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/s-api/app/index.js" timestamp="1510304237683">
         <mark key="[" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/channel/controller.js" timestamp="1510298345581">
         <mark key="[" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/index.js" timestamp="1510295034104">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/aws_scripts/docker/start-container.sh" timestamp="1510031381177">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="5" column="76" />
-        <mark key="^" line="5" column="76" />
-        <mark key="." line="5" column="76" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/repository.js" timestamp="1510110260322">
-        <mark key="[" line="121" column="9" />
-        <mark key="]" line="120" column="21" />
-        <mark key="^" line="120" column="21" />
-        <mark key="." line="120" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/s-api/app/utils/iamport.js" timestamp="1510296676192">
         <mark key="[" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/aws_scripts/docker/pull-image.sh" timestamp="1510033791983">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/components/responses/index.js" timestamp="1510576374943">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/.travis.yml" timestamp="1510035714369">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/promotion/repository.js" timestamp="1510583541272">
-        <mark key="[" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/address/service.js" timestamp="1510304824353">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
-        <mark key="^" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510576235987">
         <mark key="'" line="201" column="105" />
@@ -90,17 +39,6 @@
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510549057399">
         <mark key="[" line="179" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/utils/base.js" timestamp="1510583481808">
-        <mark key="]" line="145" column="42" />
-        <mark key="^" line="145" column="42" />
-        <mark key="." line="145" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/promotion.js" timestamp="1510583796537">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510636078494">
         <mark key="[" line="12" column="58" />
@@ -131,45 +69,9 @@
         <mark key="^" line="149" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/index.js" timestamp="1510059299398">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/issue/model.js" timestamp="1510141569252">
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="1" />
-      </file>
       <file name="/service.js" timestamp="1510575356449" />
       <file name="vim_settings.xml" timestamp="1510160573823">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/app.js" timestamp="1510298265816">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/.eslintrc" timestamp="1510303082968">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/routes.js" timestamp="1510032305573">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/coupon/model.js" timestamp="1510291515229">
-        <mark key="[" line="195" column="8" />
-        <mark key="]" line="189" column="19" />
-        <mark key="^" line="189" column="19" />
-        <mark key="." line="189" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/docker/prod.docker-compose.yml" timestamp="1510297350535">
         <mark key="[" line="7" column="10" />
@@ -189,13 +91,7 @@
         <mark key="^" line="454" column="11" />
         <mark key="." line="454" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/models/associations/coupon.js" timestamp="1510142163984">
-        <mark key="[" line="48" column="18" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="48" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510575470963">
+      <file name="/Dummy.txt" timestamp="1510638783131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/coupon/index.js" timestamp="1510058513319">
@@ -212,18 +108,6 @@
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/models/associations/product.js" timestamp="1510539860439">
         <mark key="[" line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/after_success.sh" timestamp="1510192584396">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/index.js" timestamp="1510537476333">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/node_modules/sequelize/lib/associations/helpers.js" timestamp="1510141948150">
         <mark key="[" line="63" column="0" />
