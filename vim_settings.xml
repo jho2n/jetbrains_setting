@@ -115,17 +115,21 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510574620490">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510623852261">
+        <mark key="[" line="330" column="10" />
+        <mark key="]" line="330" column="10" />
         <mark key="^" line="294" column="54" />
+        <mark key="." line="330" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/promotion/service.js" timestamp="1510584141201">
-        <mark key="[" line="84" column="55" />
-        <mark key="]" line="84" column="55" />
-        <mark key="^" line="87" column="4" />
-        <mark key="." line="84" column="55" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/promotion/service.js" timestamp="1510623683826">
+        <mark key="'" line="82" column="130" />
+        <mark key="[" line="102" column="12" />
+        <mark key="]" line="102" column="12" />
+        <mark key="^" line="102" column="16" />
+        <mark key="." line="102" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/index.js" timestamp="1510059299398">
         <mark key="[" line="10" column="34" />
@@ -258,10 +262,11 @@
       <jump line="3" column="32" filename="$USER_HOME$/Projects/s-api/app/controllers/member/billing/controller.js" />
       <jump line="24" column="19" filename="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" />
       <jump line="208" column="105" filename="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" />
+      <jump line="82" column="130" filename="$USER_HOME$/Projects/s-api/app/controllers/promotion/service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ewogICAgLy8KICAgIC8vIGNvbnNvbGUubG9nKHByb21vdGlvbi5nZXQoJ3Byb21vdGlvbkdyb3VwJyx7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnKS5wcm9tb3Rpb25Hcm91cElkKTsKICAgIHJldHVybiA=</text>
+        <text encoding="base64">Ly8gcHJvbW90aW9ucy5mb3JFYWNoKChwcm9tb3Rpb24pID0+IHsKICAgICAgICAgIC8vICAgY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgICAgICAgIC8vIH0p</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -295,7 +300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>promotions</text>
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
@@ -304,7 +309,7 @@
         <text>&quot;$DEPLOYMENT_GROUP_NAME&quot; == &quot;gangseo02&quot; ]; then</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ewogICAgLy8KICAgIC8vIGNvbnNvbGUubG9nKHByb21vdGlvbi5nZXQoJ3Byb21vdGlvbkdyb3VwJyx7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnKS5wcm9tb3Rpb25Hcm91cElkKTsKICAgIHJldHVybiA=</text>
+        <text encoding="base64">Ly8gcHJvbW90aW9ucy5mb3JFYWNoKChwcm9tb3Rpb24pID0+IHsKICAgICAgICAgIC8vICAgY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgICAgICAgIC8vIH0p</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -339,33 +344,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UubWFwKGdyb3VwU2V0dGluZ3MsIGdyb3VwU2V0dGluZyA9PiBncm91cFNldHRpbmcuZ2V0UHJvbW90aW9uR3JvdXAoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKICAgICAgLy8gY29uc3QgZyA9IHByb21vdGlvbi5nZXQoJ3Byb21vdGlvbkdyb3VwJykpOwoKICAgICAgLy8gY29uc3QgZ3MgPSBwcm9tb3Rpb24uZ2V0KCdwcm9tb3Rpb25Hcm91cFNldHRpbmcnKTsKICAgICAgLy8gY29uc29sZS5sb2coZ3Muc29ydE5vKQ==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">cHMuZm9yRWFjaChwID0+IHsKICAgICAgY29uc3QgcGcgPSBwLmdldCgncHJvbW90aW9uR3JvdXAnKTsKCiAgICAgIGNvbnNvbGUubG9nKHBnLmdldCh7IHBsYWluOiB0cnVlIH0pKTsKICAgIH0pOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgLy8KICAgIC8vIGNvbnNvbGUubG9nKHByb21vdGlvbi5nZXQoJ3Byb21vdGlvbkdyb3VwJyx7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnKS5wcm9tb3Rpb25Hcm91cElkKTsKICAgIHJldHVybiA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UubWFwKGdyb3VwU2V0dGluZ3MsIGdyb3VwU2V0dGluZyA9PiBncm91cFNldHRpbmcuZ2V0UHJvbW90aW9uR3JvdXAoKSk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>console.log({
     ...PROMOTION_OPTIONS.INCLUDE.promotionGroupSetting,
     where: { promotionGroupId: { [OP.gt]: 0 } },
     attributes: { exclude: Object.keys(db.SiteProduct.rawAttributes) },
   });</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9iakNvdXBvbnMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LnRoZW4oKGZpbHRlcmVkQ291cG9ucykgPT4gewogICAgICAgICAgICBzaXRlUHJvZHVjdC5jb3Vwb25zID0gZmlsdGVyZWRDb3Vwb25zOwogICAgICAgICAgICByZXR1cm4gc2l0ZVByb2R1Y3QuY291cG9uczsKICAgICAgICAgIH0p</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAudGhlbigoZmlsdGVyZWRDb3Vwb25zKSA9PiB7CiAgICAgICAgICAgIHNpdGVQcm9kdWN0LmNvdXBvbnMgPSBmaWx0ZXJlZENvdXBvbnM7CiAgICAgICAgICAgIHJldHVybiBzaXRlUHJvZHVjdC5jb3Vwb25zOwogICAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldENhdGVnb3J5SWRzKHNpdGVQcm9kdWN0SWQpIHsKCiAgLypTRUxFQ1QKICAgR1JPVVBfQ09OQ0FUKGBzaXRlX2NhdGVnb3J5X2lkYCBTRVBBUkFUT1IgJywnKSBBUyBzaXRlX2NhdGVnb3J5X2lkcwogICBGUk9NCiAgIHNpdGVfcHJvZHVjdF9kaXNwbGF5X2dyb3VwCiAgIFdIRVJFIHNpdGVfcHJvZHVjdF9kaXNwbGF5X2dyb3VwX2lkIElOCiAgICgKICAgU0VMRUNUCiAgIHNpdGVfcHJvZHVjdF9kaXNwbGF5X2dyb3VwX2lkCiAgIEZST00KICAgc2l0ZV9wcm9kdWN0X2Rpc3BsYXkKICAgV0hFUkUKICAgc2l0ZV9wcm9kdWN0X2lkID0geyRzaXRlX3Byb2R1Y3RfaWR9CiAgICkqLwp9</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
