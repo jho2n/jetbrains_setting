@@ -102,8 +102,8 @@
         <mark key="." line="61" column="25" />
         <mark key="^" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510536734910">
-        <mark key="[" line="27" column="7" />
+      <file name="$USER_HOME$/Projects/s-api/app/config/environment/staging.js" timestamp="1510628827291">
+        <mark key="[" line="12" column="58" />
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -115,21 +115,21 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510623852261">
-        <mark key="[" line="330" column="10" />
-        <mark key="]" line="330" column="10" />
-        <mark key="^" line="294" column="54" />
-        <mark key="." line="330" column="10" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510624262066">
+        <mark key="[" line="357" column="48" />
+        <mark key="]" line="357" column="47" />
+        <mark key="^" line="357" column="47" />
+        <mark key="." line="357" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/promotion/service.js" timestamp="1510623683826">
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/promotion/service.js" timestamp="1510624034302">
         <mark key="'" line="82" column="130" />
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="102" column="12" />
-        <mark key="^" line="102" column="16" />
-        <mark key="." line="102" column="12" />
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="193" column="16" />
+        <mark key="^" line="193" column="16" />
+        <mark key="." line="193" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/index.js" timestamp="1510059299398">
         <mark key="[" line="10" column="34" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gcHJvbW90aW9ucy5mb3JFYWNoKChwcm9tb3Rpb24pID0+IHsKICAgICAgICAgIC8vICAgY29uc29sZS5sb2cocHJvbW90aW9uLmdldCgncHJvbW90aW9uR3JvdXAnLCB7IHBsYWluOiB0cnVlIH0pKTsKICAgICAgICAgIC8vIH0p</text>
+        <text />
       </register>
       <register name="j" type="4">
         <keys>
@@ -300,7 +300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>promotions</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>memberGroupId</text>
