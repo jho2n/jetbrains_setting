@@ -12,6 +12,9 @@
         <mark key="^" line="52" column="5" />
         <mark key="." line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/s-api/aws_scripts/docker/kill-container.sh" timestamp="1510707903921">
+        <mark key="[" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/coupon/index.js" timestamp="1510058571213">
         <mark key="[" line="8" column="70" />
       </file>
@@ -79,13 +82,6 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/site/product/controller.js" timestamp="1510576235987">
-        <mark key="'" line="201" column="105" />
-        <mark key="[" line="198" column="5" />
-        <mark key="]" line="201" column="38" />
-        <mark key="." line="201" column="38" />
-        <mark key="^" line="201" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/cart/controller.js" timestamp="1510549057399">
         <mark key="[" line="179" column="17" />
       </file>
@@ -119,15 +115,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/member/billing/key/controller.js" timestamp="1510304672668">
-        <mark key="'" line="28" column="19" />
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510650403473">
-        <mark key="[" line="349" column="52" />
+      <file name="$USER_HOME$/Projects/s-api/app/controllers/order/controller.js" timestamp="1510664076839">
+        <mark key="[" line="362" column="29" />
+        <mark key="]" line="362" column="28" />
+        <mark key="^" line="362" column="28" />
+        <mark key="." line="362" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/s-api/app/controllers/member/index.js" timestamp="1510222792767">
         <mark key="[" line="42" column="37" />
