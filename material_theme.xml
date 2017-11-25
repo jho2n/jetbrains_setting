@@ -1,15 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="1.3.3.1" />
     <option name="highlightColor" value="6f9bcb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
     <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="2" />
+    <option name="accentColor" value="64ffda" />
     <option name="wallpaperSet" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
