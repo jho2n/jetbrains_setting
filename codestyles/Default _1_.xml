@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)" version="173">
+<code_scheme name="Default (1)">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -21,11 +21,17 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="IMPORTS_WRAP" value="1" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="OBJECT_WRAPPING" value="1" />
@@ -45,6 +51,10 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
   <SqlCodeStyleSettings>
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
