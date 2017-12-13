@@ -1,11 +1,23 @@
 <scheme name="_@user_Material Lighter" version="142">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-04T22:48:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-04T22:50:00</property>
+    <property name="modified">2017-12-13T20:21:40</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="597f5f" />
     <option name="ANNOTATIONS_COLOR" value="474747" />
@@ -27,10 +39,10 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="b0bec5" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_SUPPRESSED" value="b0bec5" />
+    <option name="FILESTATUS_SWITCHED" value="7c4dff" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
@@ -601,7 +613,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="7c4dff" />
+        <option name="FOREGROUND" value="6182b8" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -1175,6 +1187,11 @@
     <option name="JS.COMMA">
       <value>
         <option name="FOREGROUND" value="39adb5" />
+      </value>
+    </option>
+    <option name="JS.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="6182b8" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
@@ -2414,7 +2431,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="7c4dff" />
+        <option name="FOREGROUND" value="6182b8" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -3257,6 +3274,11 @@
       <value>
         <option name="FOREGROUND" value="e53935" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ffb62c" />
       </value>
     </option>
     <option name="TYPEDEF">
