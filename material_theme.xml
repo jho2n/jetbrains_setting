@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.4.2" />
+    <option name="version" value="1.4.3" />
     <option name="highlightColor" value="6f9bcb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
@@ -14,6 +14,5 @@
     <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
