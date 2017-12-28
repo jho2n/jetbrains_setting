@@ -14,5 +14,6 @@
     <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="false" />
   </component>
 </application>
