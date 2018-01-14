@@ -1,15 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="1.5.3.2" />
     <option name="highlightColor" value="6f9bcb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
     <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="2" />
-    <option name="wallpaperSet" value="false" />
+    <option name="accentColor" value="64ffda" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="false" />
   </component>
 </application>

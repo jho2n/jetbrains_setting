@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/google/web-starter-kit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seoulstore/s-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/" />
@@ -32,5 +36,9 @@
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProject" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="MIGRATED" value="true" />
   </component>
 </application>
